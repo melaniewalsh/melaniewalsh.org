@@ -19,7 +19,7 @@ title                    : "Melanie Walsh"
 title_separator          : "-"
 subtitle                 :  ""
 name                     : "Melanie Walsh"
-description              : "Postdoc at Cornell University / Digital humanities, cultural analytics, American literature, & social media"
+description              : "Assistant Teaching Professor at UW iSchool / Digital humanities, cultural analytics, American literature, & social media"
 url                      : melaniewalsh.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : melaniewalsh
@@ -108,11 +108,11 @@ analytics:
 author:
   name             : "Melanie Walsh"
   avatar           : "/images/Melanie-Walsh-Bio-Photo.png"
-  bio              : "Postdoctoral Associate and Visiting Lecturer in Information Science at Cornell University"
+  bio              : "Assistant teaching Professor at UW iSchool"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:melanie.walsh@cornell.edu
+      url: mailto:melwalsh@uw.edu
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mellymeldubs"
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:melanie.walsh@cornell.edu
+      url: mailto:melwalsh@uw.edu
     
 
 # Reading Files

@@ -37,12 +37,12 @@ feature_row:
 
 ---
 
-Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh). I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/). My research interests include data science, digital humanities, cultural analytics, social media, and American literature & culture---preferably all of the above combined.
+Hi, I'm Melanie Walsh, and I'm an Assistant Teaching Professor in the [iSchool at the University of Washington](https://ischool.uw.edu/people/faculty/profile/melwalsh). Previously, I was a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh), where I worked with [David Mimno](https://mimno.infosci.cornell.edu/). Before that, I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/), where I was a Fellow in the [Humanities Digital Workshop](https://hdw.wustl.edu/). My research interests include data science, digital humanities, cultural analytics, social media, and American literature & culture---preferably all of the above combined.
 
 I am currently at work on a book project, [*When Postwar American Fiction Went Viral*](/book), which follows the social media afterlives of American authors. I also designed an undergraduate course and online textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which prepares students to analyze books, movies, songs, etc. with the programming language Python.
 
 Sometimes I am asked to give my professional opinion about social media and the English language, like whether using [multiple exclamation points](https://www.stltoday.com/lifestyles/parenting/aisha-sultan/aisha-sultan-sad-the-alarming-rise-of-exclamation-point-abuse/article_e454ad04-e385-5f00-a4ef-173ec185dc7e.html) is an alarming linguistic trend (tl;dr no it is not!!).
 
-If you're interested, you can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), or [infrequent blog thoughts](/blog). If you'd like to reach out, you can [email me](mailto:melanie.walsh@cornell.edu) at *melanie dot walsh at cornell dot edu*. I like connecting with people!
+If you're interested, you can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), or [infrequent blog thoughts](/blog). If you'd like to reach out, you can [email me](mailto:melwalsh@uw.edu) at *melwalsh dot uw dot edu*. I like connecting with people!
 
 ---

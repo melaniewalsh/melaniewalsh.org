@@ -13,7 +13,9 @@ Data science, digital humanities, cultural analytics, social media, twentieth- a
 
 Employment
 ---
-Postdoctoral Associate and Visiting Lecturer in Information Science, Cornell University, August 2019 – Present
+Assistant Teaching Professor, Information School, University of Washington, July 2021 - Present
+
+Postdoctoral Associate and Visiting Lecturer in Information Science, Cornell University, August 2019 – June 2021
 
 Education
 ---

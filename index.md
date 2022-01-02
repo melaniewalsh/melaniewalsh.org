@@ -3,18 +3,18 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true 
+author_profile: true
 title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image:  /images/Bowman-Lake.jpeg
+  overlay_image:  /images/Lake-Serene.jpeg
   #actions:
   #  - label: "Download"
     #  url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "[Bowman Lake, Glacier National Park](https://www.nps.gov/glac/index.htm) // I like hiking"
+  caption: "Lake Serene, Washington // I like hiking"
 excerpt: " <br>  <br>  <br> "
-#intro: 
+#intro:
 #  - excerpt: "Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background."
 feature_row:
   - image_path: /images/twitter_prof.jpg

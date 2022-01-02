@@ -33,6 +33,8 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
+Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Quantitative Literary Studies,” *Debates in Digital Humanities*, University of Minnesota Press, forthcoming.
+
 Melanie Walsh and Maria Antoniak, ["The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) *Post45* and *Journal of Cultural Analytics*, April 2021. [[PDF](../Walsh-Antoniak_The-Goodreads-Classics.pdf)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]
 
 Maria Antoniak, Melanie Walsh, and David Mimno, ["Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing,"](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf) *Proceedings of the ACM on Human-Computer Interaction* (CSCW), 2021. [[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)]
@@ -97,6 +99,8 @@ Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010.
 
 Conferences, Presentations, & Workshops
 ---
+“Multilingual NLP as Interface,” DARIAH Conference, September 2021.
+
 "Social Textworking: Books, Readers, and Online Media," SHARP, July 2021.
 
 “The Crowdsourced ‘Classics’ and the Revealing Limits of Goodreads Data,” DH 2020, Ottawa, Canada (virtual), July 2020.

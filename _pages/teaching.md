@@ -6,8 +6,20 @@ layout: single
 
 ### Undergraduate Courses
 
+* INFO 201: Foundational Skills for Data Science
+
+  Winter 2022, Spring 2022 - University of Washington
+
+* INFO 350: Information Ethics & Policy
+
+  Autumn 2021, Winter 2022 - University of Washington
+
+* INFO 498A: Introduction to Cultural Analytics: Data, Computation, & Culture
+
+  - Autumn 2021 — University of Washington
+
 * [Introduction to Cultural Analytics: Data, Computation, & Culture](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)
-   
+
    Spring 2020, Spring 2021 - Cornell University
 
   Course website: [https://melaniewalsh.github.io/Intro-Cultural-Analytics/](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)

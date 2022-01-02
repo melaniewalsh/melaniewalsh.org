@@ -8,11 +8,11 @@ title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image:  /images/Lake-Serene.jpeg
+  overlay_image:  /images/Maple-Pass-Mtn-Tops.png
   #actions:
   #  - label: "Download"
     #  url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Lake Serene, Washington // I like hiking"
+  caption: "North Cascades, Washington"
 excerpt: " <br>  <br>  <br> "
 #intro:
 #  - excerpt: "Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background."

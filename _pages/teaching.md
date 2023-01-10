@@ -8,15 +8,15 @@ layout: single
 
 * INFO 201: Foundational Skills for Data Science
 
-  Winter 2022, Spring 2022 - University of Washington
+  Winter 2022, Spring 2022, Winter 2023 - University of Washington
 
 * INFO 350: Information Ethics & Policy
 
-  Autumn 2021, Winter 2022 - University of Washington
+  Autumn 2021, Winter 2022, Autumn 2022, Winter 2023 - University of Washington
 
 * INFO 498A: Introduction to Cultural Analytics: Data, Computation, & Culture
 
-  - Autumn 2021 — University of Washington
+  - Autumn 2021, Spring 2023 — University of Washington
 
 * [Introduction to Cultural Analytics: Data, Computation, & Culture](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)
 
@@ -37,6 +37,8 @@ layout: single
   Syllabus: [https://melaniewalsh.org/Walsh_Writing1-Syllabus_2016.pdf](https://melaniewalsh.org/Walsh_Writing1-Syllabus_2016.pdf)
 
 ### Graduate Courses
+
+* LIS 572: Introduction to Data Science: Applications in LIS and Humanistic Research - University of Washington
 
 * [Humanities by the Numbers: Essential Readings in the Digital Humanities](https://melaniewalsh.org/Walsh-Erlin_DH-Syllabus_2018.pdf)
 

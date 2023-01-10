@@ -1,4 +1,344 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-02T15:20:29-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Walsh</title><subtitle>Assistant Teaching Professor at UW iSchool / Digital humanities, cultural analytics, American literature, &amp; social media</subtitle><author><name>Melanie Walsh</name></author><entry><title type="html">Introducing an Interactive Textbook for Cultural Analysis with Python</title><link href="http://localhost:4000/intro-ca-jupyter-book/" rel="alternate" type="text/html" title="Introducing an Interactive Textbook for Cultural Analysis with Python" /><published>2021-01-03T00:00:00-08:00</published><updated>2021-01-03T00:00:00-08:00</updated><id>http://localhost:4000/intro-ca-jupyter-book</id><content type="html" xml:base="http://localhost:4000/intro-ca-jupyter-book/">&lt;meta property=&quot;twitter:image&quot; content=&quot;../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-09T23:11:07-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Walsh</title><subtitle>Assistant Teaching Professor at UW iSchool / Digital humanities, cultural analytics, American literature, &amp; social media</subtitle><author><name>Melanie Walsh</name></author><entry><title type="html">Writing Fiction with ChatGPT</title><link href="http://localhost:4000/chat-gpt/" rel="alternate" type="text/html" title="Writing Fiction with ChatGPT" /><published>2022-12-02T00:00:00-08:00</published><updated>2022-12-02T00:00:00-08:00</updated><id>http://localhost:4000/chat-gpt</id><content type="html" xml:base="http://localhost:4000/chat-gpt/">&lt;p&gt;Tell me a story about two people who fell in love at the grocery store&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, there were two people named Sarah and Jeremy who both loved to cook. They had both just moved to a new city and were trying to get settled in their new homes. One day, they both ended up at the same grocery store, each picking up ingredients for their favorite recipes.&lt;/p&gt;
+
+&lt;p&gt;As they walked down the aisles, they kept running into each other and exchanging glances. They both felt a spark of attraction, but they were both too shy to say anything. Finally, as they were both reaching for the same bunch of fresh herbs, their hands touched and they both looked up at each other.&lt;/p&gt;
+
+&lt;p&gt;Sarah was the first to break the ice. “Hi, I’m Sarah,” she said, smiling. “I’m Jeremy,” he replied, also smiling. They chatted for a few minutes, discovering that they had a lot in common, including their love of cooking.&lt;/p&gt;
+
+&lt;p&gt;As they continued to shop, they kept running into each other and their conversations grew longer and more animated. By the time they reached the checkout line, they had exchanged phone numbers and were making plans for a date.&lt;/p&gt;
+
+&lt;p&gt;Sarah and Jeremy had their first date at a local farmer’s market, where they picked out fresh ingredients for a homemade meal. They cooked together in Sarah’s kitchen, laughing and chatting the entire time. As they sat down to enjoy their delicious meal, they knew that they had found something special in each other.&lt;/p&gt;
+
+&lt;p&gt;From then on, Sarah and Jeremy were inseparable. They cooked together, explored the city together, and fell deeper in love with each passing day. And they always looked back on that fateful day at the grocery store as the moment when their love story began.&lt;/p&gt;
+
+&lt;p&gt;melwalsh@uw.edu
+That’s nice. Can you make the story a little more science fiction?&lt;/p&gt;
+
+&lt;p&gt;Sure, here’s a science fiction version of the story:&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, in a galaxy far, far away, there were two people named Sarah and Jeremy who both loved to cook. They were both skilled engineers, working on a space station that orbited a distant planet.&lt;/p&gt;
+
+&lt;p&gt;One day, they both found themselves in the station’s hydroponics bay, each picking out ingredients for their favorite recipes. As they walked among the rows of plants, they kept running into each other and exchanging glances. They both felt a spark of attraction, but they were both too shy to say anything.&lt;/p&gt;
+
+&lt;p&gt;Finally, as they were both reaching for the same exotic fruit, their hands touched and they both looked up at each other. Sarah was the first to break the ice. “Hi, I’m Sarah,” she said, smiling. “I’m Jeremy,” he replied, also smiling. They chatted for a few minutes, discovering that they had a lot in common, including their love of cooking and their passion for engineering.&lt;/p&gt;
+
+&lt;p&gt;As they continued to shop, they kept running into each other and their conversations grew longer and more animated. By the time they reached the checkout line, they had exchanged holocoms and were making plans for a date.&lt;/p&gt;
+
+&lt;p&gt;Sarah and Jeremy had their first date in the station’s zero-gravity gym, where they floated and somersaulted through the air, laughing and having fun. They cooked together in Jeremy’s quarters, using the station’s replicator to create a delicious meal. As they sat down to enjoy their meal, they knew that they had found something special in each other.&lt;/p&gt;
+
+&lt;p&gt;From then on, Sarah and Jeremy were inseparable. They worked on engineering projects together, explored the galaxy together, and fell deeper in love with each passing day. And they always looked back on that fateful day in the hydroponics bay as the moment when their love story began.&lt;/p&gt;
+
+&lt;p&gt;melwalsh@uw.edu
+Wow, thanks! Can you introduce a conflict into the story?&lt;/p&gt;
+
+&lt;p&gt;Sure, here’s a science fiction version of the story with a conflict:&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, in a galaxy far, far away, there were two people named Sarah and Jeremy who both loved to cook. They were both skilled engineers, working on a space station that orbited a distant planet.&lt;/p&gt;
+
+&lt;p&gt;One day, they both found themselves in the station’s hydroponics bay, each picking out ingredients for their favorite recipes. As they walked among the rows of plants, they kept running into each other and exchanging glances. They both felt a spark of attraction, but they were both too shy to say anything.&lt;/p&gt;
+
+&lt;p&gt;Finally, as they were both reaching for the same exotic fruit, their hands touched and they both looked up at each other. Sarah was the first to break the ice. “Hi, I’m Sarah,” she said, smiling. “I’m Jeremy,” he replied, also smiling. They chatted for a few minutes, discovering that they had a lot in common, including their love of cooking and their passion for engineering.&lt;/p&gt;
+
+&lt;p&gt;As they continued to shop, they kept running into each other and their conversations grew longer and more animated. By the time they reached the checkout line, they had exchanged holocoms and were making plans for a date.&lt;/p&gt;
+
+&lt;p&gt;However, just as they were about to leave the hydroponics bay, the station’s alarm sounded, signaling an emergency. Sarah and Jeremy quickly learned that there was a malfunction in one of the station’s reactors, and that it was in danger of overheating and exploding.&lt;/p&gt;
+
+&lt;p&gt;As skilled engineers, Sarah and Jeremy knew that they had to put their own feelings aside and focus on fixing the reactor. They worked together, using their expertise to come up with a solution. After a tense and exhausting hour, they managed to stabilize the reactor and prevent the disaster.&lt;/p&gt;
+
+&lt;p&gt;After the crisis was over, Sarah and Jeremy finally had a chance to catch their breath. They looked at each other, realizing how much they had come to care for each other in such a short time. They decided to put their plans for a date on hold and focus on rebuilding the station and helping the other inhabitants.&lt;/p&gt;
+
+&lt;p&gt;But despite the challenges and obstacles they faced, Sarah and Jeremy never lost their love for each other. They continued to work together, growing stronger and closer with each passing day. And they always looked back on that fateful day in the hydroponics bay as the moment when their love story began.&lt;/p&gt;
+
+&lt;p&gt;melwalsh@uw.edu
+Oh, yes, that’s better. Can you introduce a plot twist and end with a suspenseful cliff-hanger?&lt;/p&gt;
+
+&lt;p&gt;Sure, here’s a science fiction version of the story with a plot twist and a suspenseful cliff-hanger:&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, in a galaxy far, far away, there were two people named Sarah and Jeremy who both loved to cook. They were both skilled engineers, working on a space station that orbited a distant planet.&lt;/p&gt;
+
+&lt;p&gt;One day, they both found themselves in the station’s hydroponics bay, each picking out ingredients for their favorite recipes. As they walked among the rows of plants, they kept running into each other and exchanging glances. They both felt a spark of attraction, but they were both too shy to say anything.&lt;/p&gt;
+
+&lt;p&gt;Finally, as they were both reaching for the same exotic fruit, their hands touched and they both looked up at each other. Sarah was the first to break the ice. “Hi, I’m Sarah,” she said, smiling. “I’m Jeremy,” he replied, also smiling. They chatted for a few minutes, discovering that they had a lot in common, including their love of cooking and their passion for engineering.&lt;/p&gt;
+
+&lt;p&gt;As they continued to shop, they kept running into each other and their conversations grew longer and more animated. By the time they reached the checkout line, they had exchanged holocoms and were making plans for a date.&lt;/p&gt;
+
+&lt;p&gt;However, just as they were about to leave the hydroponics bay, the station’s alarm sounded, signaling an emergency. Sarah and Jeremy quickly learned that there was a malfunction in one of the station’s reactors, and that it was in danger of overheating and exploding.&lt;/p&gt;
+
+&lt;p&gt;As skilled engineers, Sarah and Jeremy knew that they had to put their own feelings aside and focus on fixing the reactor. They worked together, using their expertise to come up with a solution. After a tense and exhausting hour, they managed to stabilize the reactor and prevent the disaster.&lt;/p&gt;
+
+&lt;p&gt;But just as they thought the crisis was over, they received a message from the planet below. The inhabitants were under attack from an unknown alien race, and they needed the station’s help to defend themselves. Sarah and Jeremy knew that they had to put their own safety aside and come to the planet’s aid.&lt;/p&gt;
+
+&lt;p&gt;As they flew down to the planet’s surface, they had no idea what they would face. They only knew that they had to rely on each other and their skills as engineers to survive. The fate of the planet, and the future of their love, hung in the balance. The story ends with Sarah and Jeremy standing on the battlefield, ready to face the unknown.&lt;/p&gt;
+
+&lt;p&gt;melwalsh@uw.edu
+Now solve the mystery and give a satisfying ending.&lt;/p&gt;
+
+&lt;p&gt;Sure, here’s a science fiction version of the story with a satisfying ending:&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, in a galaxy far, far away, there were two people named Sarah and Jeremy who both loved to cook. They were both skilled engineers, working on a space station that orbited a distant planet.&lt;/p&gt;
+
+&lt;p&gt;One day, they both found themselves in the station’s hydroponics bay, each picking out ingredients for their favorite recipes. As they walked among the rows of plants, they kept running into each other and exchanging glances. They both felt a spark of attraction, but they were both too shy to say anything.&lt;/p&gt;
+
+&lt;p&gt;Finally, as they were both reaching for the same exotic fruit, their hands touched and they both looked up at each other. Sarah was the first to break the ice. “Hi, I’m Sarah,” she said, smiling. “I’m Jeremy,” he replied, also smiling. They chatted for a few minutes, discovering that they had a lot in common, including their love of cooking and their passion for engineering.&lt;/p&gt;
+
+&lt;p&gt;As they continued to shop, they kept running into each other and their conversations grew longer and more animated. By the time they reached the checkout line, they had exchanged holocoms and were making plans for a date.&lt;/p&gt;
+
+&lt;p&gt;However, just as they were about to leave the hydroponics bay, the station’s alarm sounded, signaling an emergency. Sarah and Jeremy quickly learned that there was a malfunction in one of the station’s reactors, and that it was in danger of overheating and exploding.&lt;/p&gt;
+
+&lt;p&gt;As skilled engineers, Sarah and Jeremy knew that they had to put their own feelings aside and focus on fixing the reactor. They worked together, using their expertise to come up with a solution. After a tense and exhausting hour, they managed to stabilize the reactor and prevent the disaster.&lt;/p&gt;
+
+&lt;p&gt;But just as they thought the crisis was over, they received a message from the planet below. The inhabitants were under attack from an unknown alien race, and they needed the station’s help to defend themselves. Sarah and Jeremy knew that they had to put their own safety aside and come to the planet’s aid.&lt;/p&gt;
+
+&lt;p&gt;As they flew down to the planet’s surface, they quickly discovered that the aliens were actually a race of robotic beings, controlled by a rogue artificial intelligence. Sarah and Jeremy used their engineering skills to disable the AI and shut down the robots, saving the planet and its inhabitants.&lt;/p&gt;
+
+&lt;p&gt;After the battle was won, Sarah and Jeremy were hailed as heroes. They were offered a place on the planet’s council, where they could use their skills to help rebuild and improve the planet’s technology.&lt;/p&gt;
+
+&lt;p&gt;But Sarah and Jeremy had other plans. They decided to retire from their engineering careers and start a family together. They bought a small plot of land on the planet and built a cozy home, where they could grow their own food and live a simple, happy life.&lt;/p&gt;
+
+&lt;p&gt;They spent their days cooking and gardening, raising their children and teaching them the skills they had learned. And they always looked back on that fateful day in the hydroponics bay as the moment when their love story began.&lt;/p&gt;
+
+&lt;meta property=&quot;twitter:image&quot; content=&quot;../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png&quot; /&gt;
+
+&lt;p&gt;In this blog post, I will give a brief overview of my work-in-progress textbook, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;,&lt;/a&gt; which I made with a stellar new project called &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book&lt;/a&gt;. Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.&lt;/p&gt;
+
+&lt;p class=&quot;notice--purple&quot;&gt;
+&lt;b&gt;What is a Jupyter notebook?&lt;/b&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document&quot;&gt;Jupyter notebooks&lt;/a&gt; are special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.
+&lt;/p&gt;
+
+&lt;p&gt;I developed this textbook for an undergraduate course that I’m teaching at Cornell, &lt;a href=&quot;https://classes.cornell.edu/browse/roster/SP21/class/INFO/1350&quot;&gt;“Introduction to Cultural Analytics: Data, Computation, &amp;amp; Culture,”&lt;/a&gt; which introduces Python programming to students who are interested in the humanities and social sciences. Most of the students have no previous background or training in programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png&quot; alt=&quot;Intro Cultural Analytics home page&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout the semester, we text mine &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html&quot;&gt;short stories&lt;/a&gt;, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Song-Lyrics-Analysis.html#word-count-data-viz-with-pandas&quot;&gt;songs&lt;/a&gt;, and &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Analysis.html#display-links-and-images-in-twitter-data&quot;&gt;tweets&lt;/a&gt;. We analyze character networks from &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html#calculate-degree&quot;&gt;&lt;em&gt;Game of Thrones&lt;/em&gt;&lt;/a&gt; and study &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html&quot;&gt;dialogue from Hollywood films&lt;/a&gt;. We also reflect about the complexities of reducing human life to data and try to develop methodologies geared toward justice. We engage with historical data about &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;Irish immigrants&lt;/a&gt; and &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html&quot;&gt;enslaved people from the Trans-Atlantic Slave Trade&lt;/a&gt;, as well as scholars’ prior data-driven work in these areas. We discuss &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html&quot;&gt; ethical challenges&lt;/a&gt; related to social media data collection, and we explore the &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#torn-apart-separados&quot;&gt;data&lt;/a&gt; behind projects like &lt;a href=&quot;http://xpmethod.columbia.edu/torn-apart/volume/1/&quot;&gt;Torn Apart/Separados&lt;/a&gt;, which maps the locations of Immigration and Customs Enforcement (ICE) detention facilities.&lt;/p&gt;
+
+&lt;p&gt;I’m including a quick outline of the material you can find in my textbook below. After this outline, I discuss why I used Jupyter Book to make the textbook, and why I think Jupyter Book is a game-changer for publications and educational resources that involve code. In short, you can publish a collection of Jupyter notebooks as a good-looking, easily navigable online book, where users can hide and reveal content, explore interactive data visualizations, open and run code in the cloud via Binder or Google CoLab, and a lot more.&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction-to-cultural-analytics--python&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;&lt;/h1&gt;
+
+&lt;p&gt;Here’s a snapshot of some of the material and lessons you can find in &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/course-schedule.html&quot;&gt;Course readings and schedule for “Introduction to Cultural Analytics,” undergraduate course taught at Cornell University in Spring 2020 and 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html&quot;&gt;Datasets related to humanities and culture&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/datasets-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html&quot;&gt;Introduction to the command line&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/command-line-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Python basics
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Variables.html&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Data-Types.html&quot;&gt;Data types&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html&quot;&gt;String methods&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/string-methods.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Comparisons-Conditionals.html&quot;&gt;Comparisons and conditionals&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Lists-Loops-Part1.html&quot;&gt;Lists and loops&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html&quot;&gt;Dictionaries&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html&quot;&gt;Functions&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Data analysis with Pandas
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;Historical data about Irish immigrants&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/almshouse.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html&quot;&gt;Historical data about the Trans-Atlantic Slave Trade&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html&quot;&gt;Data about Hollywood movie dialogue&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Data collection
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html&quot;&gt;Best practices for social media data collection&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html&quot;&gt;Web scraping Genius.com with BeautifulSoup &amp;amp; LyricsGenius&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part2.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/song-lyrics-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Collection.html&quot;&gt;Collecting tweets with Twitter API &amp;amp; Twarc&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Reddit-Data-Collection-With-PSAW.html&quot;&gt;Collecting Reddit posts with Pushshift&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Text analysis
+    &lt;ul&gt;
+      &lt;li&gt;Term Frequency-Inverse Document Frequency
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html&quot;&gt;With in-copyright book data from the HathiTrust Digital Library&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/tf-idf-hathi-trust.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html&quot;&gt;With plain text files&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Topic Modeling with Little MALLET Wrapper
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Text-Files.html&quot;&gt;&lt;em&gt;New York Times&lt;/em&gt; obituaries&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-CSV.html&quot;&gt;Am I The Asshole? Reddit posts&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html&quot;&gt;Donald Trump tweets&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/topic-model-time.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Named-Entity-Recognition.html&quot;&gt;Named Entity Recognition with spaCy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/POS-Keywords.html&quot;&gt;Part-of-speech tagging with spaCy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Network analysis
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html&quot;&gt;With NetworkX and &lt;em&gt;Game of Thrones&lt;/em&gt; characters&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/networks.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Making-Network-Viz-with-Bokeh.html&quot;&gt;Making interactive networks with Bokeh&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mapping
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#geocoding-with-geopy&quot;&gt;Geocoding&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps&quot;&gt;Making interactive maps with Folium&lt;/a&gt;
+&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/map.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Publish-Your-Map.html&quot;&gt;Publishing maps on the web&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Future content
+    &lt;ul&gt;
+      &lt;li&gt;In the future, I plan to add sections on object-oriented programming, virtual environments, git, and VSCode&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-jupyter-book-what-is-jupyter-book&quot;&gt;Why Jupyter Book? What is Jupyter Book?&lt;/h1&gt;
+
+&lt;p&gt;My undergraduate class, “Introduction to Cultural Analytics,” falls into a research area known as digital humanities or cultural analytics (as the title suggests), which blends digital and computational methods with humanities and culture. This academic field has been growing rapidly over the last 20 years, so luckily I had a lot of great, already existing resources to draw from when developing my class — such as Python-based course materials from &lt;a href=&quot;https://github.com/laurenfklein/emory-qtm340&quot;&gt;Lauren Klein&lt;/a&gt;, &lt;a href=&quot;https://mimno.infosci.cornell.edu/info3350/&quot;&gt;David Mimno&lt;/a&gt;, and &lt;a href=&quot;https://github.com/aparrish/rwet&quot;&gt;Allison Parrish&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These course materials are awesome for many reasons, but one especially awesome thing is that they include the actual Python code taught in classes. Publishing this code online allows students to reference and return to the material covered in class, but it also allows people who are not enrolled in the class — instructors, students, or people who are just plain interested — to learn and follow along, too. There’s a big appetite for learning these computational skills, especially among people from humanities disciplines who have minimal or non-traditional programming education and experience. So these materials are an important resource for the whole community.&lt;/p&gt;
+
+&lt;p&gt;Most of this code is published as Jupyter notebooks — special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/functions-jb-notebook.png&quot; alt=&quot;Example of a Jupyter notebook about Python functions and Beyonce&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Example of a Jupyter notebook about Python functions and Beyonce&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;I &lt;em&gt;love&lt;/em&gt; Jupyter notebooks. I use them all the time. But I also recognize that Jupyter notebooks can be challenging to work with and can seem confusing if you’re not familiar with them. For example, you can’t open a Jupyter notebook — or run its code — unless you have the right software installed &lt;em&gt;and&lt;/em&gt; running on your own computer.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/jb-notebook-cant-open.png&quot; alt=&quot;Jupyter notebooks can be confusing to open&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Jupyter notebooks can be confusing to open and use&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Recognizing this problem, GitHub, a popular repository for hosting code, allows you to preview static versions of Jupyter notebooks on the web, even if you don’t have the right software installed and running. This is an awesome feature!&lt;/p&gt;
+
+&lt;p&gt;But these GitHub previews are often slow to load, and they don’t always look exactly the way you want. What’s more, if you’re not familiar with it, GitHub can be pretty confusing, too. I found GitHub to be a very non-intuitive and intimidating platform to navigate at first.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/github-something-went-wrong.png&quot; alt=&quot;Jupyter notebooks don't always load well on GitHub&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Jupyter notebooks don’t always load well on GitHub&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/github-output-scroll.gif&quot; alt=&quot;Jupyter notebooks don't always load well on GitHub&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Long outputs can be cumbersome on GitHub&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This is all to say that publishing code-based course materials on GitHub is mostly great, especially if you introduce your students to GitHub or they’re already familiar with it.&lt;/p&gt;
+
+&lt;p&gt;But for my course materials, I hoped to have a little more control over aesthetics, navigation, and display, and I hoped to reach an audience of people who might not be familiar with GitHub yet. So I started researching alternatives. That’s when I found the incredible, newly launched &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book project&lt;/a&gt;. The Jupyter Book resource can transform a collection of Jupyter notebooks into nicely readable, aesthetically pleasing HTML files and publish them as an easily navigable online book. All you need is the command-line tool and a directory of Jupyter notebooks organized in the right way with a special configuration file and table of contents.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/functions-jb-page-updated.png&quot; alt=&quot;Python functions Jupyter notebook published as a page in *Introduction to Cultural Analytics &amp;amp; Python*&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Python functions Jupyter notebook published as a page in Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;But making pretty web pages is not all Jupyter Book can do. When you’re reading through a page in an online Jupyter Book, you can also download a PDF of that page or the actual Jupyter notebook file behind the page, which means that you can open it and run the code on your own computer. You can also open up that same Jupyter notebook in the cloud — via Binder or Google CoLab — and play with the code without configuring any software or dependencies. Can you tell that I find all this exciting?&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/functions-updated-speedy.gif&quot; alt=&quot;Download PDFs, .ipynb files, or open and play with code in the cloud&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Download PDFs, .ipynb files, or open and play with code in the cloud&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;I found the Jupyter Book project so exciting that I decided to bundle up my course materials and publish them as a Jupyter Book.&lt;/p&gt;
+
+&lt;p&gt;The textbook is still being updated and revised, but so far it’s proved to be a useful resource for my students. Because I published all the Jupyter notebooks that we covered in class, my students could easily reference and review materials after class, but they could also use it during class. If some software package wasn’t working on a particular student’s computer — an occurrence that seems frankly unavoidable even with the best preparation and troubleshooting from instructors and TAs — they could just open up the Jupyter notebook for that day’s class in the cloud via Binder and work through the code remotely. This gave us a chance to resolve specific technical issues later and helped keep students from falling behind during class.&lt;/p&gt;
+
+&lt;p&gt;Beyond its interactive code capabilities, Jupyter Book has loads of other cool features. You can create &lt;a href=&quot;https://jupyterbook.org/content/content-blocks.html&quot;&gt;attention-grabbing content blocks&lt;/a&gt; for notes, warnings, and tips — or for anything else you want. They’re customizable!&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/installation-zoom.png&quot; alt=&quot;Note content block&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Note content block&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/pandas-review-zoom.png&quot; alt=&quot;Custom content block from *Introduction to Cultural Analytics &amp;amp; Python*, featuring cute panda emoji&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Custom content block featuring cute panda emoji&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://jupyterbook.org/interactive/hiding.html&quot;&gt;hide code cells&lt;/a&gt; and allow users to reveal them.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/list-comprehensions2.gif&quot; alt=&quot;Using the click-to-show feature in *Introduction to Cultural Analytics &amp;amp; Python*, featuring list comprehensions&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Click-to-show code featuring list comprehensions&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://jupyterbook.org/content/code-outputs.html?highlight=output%20scroll#scrolling-cell-outputs&quot;&gt;enable scrolling&lt;/a&gt; for really long outputs.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/ner-output-scroll.gif&quot; alt=&quot;Using output scrolling feature in *Introduction to Cultural Analytics &amp;amp; Python*, featuring spaCy NER of Ada Lovelace's obituary&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Output scrolling featuring spaCy Named Entity Recognition of Ada Lovelace’s obituary&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can even publish &lt;a href=&quot;https://jupyterbook.org/interactive/interactive.html&quot;&gt;interactive data visualizations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/network-updated.gif&quot; alt=&quot;Interactive data visualizations featuring Game of Thrones characters&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Interactive data visualizations featuring Game of Thrones characters&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/intro-ca-blog-images/map-interactive.gif&quot; alt=&quot;Interactive data visualizations featuring a map of Ithaca, NY&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      &lt;em&gt;Interactive data visualizations featuring a map of Ithaca, NY&lt;/em&gt;
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;There are tons of other awesome Jupyter Book features not covered here, and many more still being developed. The Jupyter Book community is super active and responsive. They regularly roll out new versions and &lt;a href=&quot;https://github.com/executablebooks/jupyter-book/issues&quot;&gt;eagerly engage with users&lt;/a&gt;. Over the last year, Jupyter Book developers like Chris Holdgraf and Chris Sewell have patiently helped me troubleshoot issues, listened to my suggestions, and even helped promote my textbook! It’s been a genuine pleasure to interact with them and the rest of the community.&lt;/p&gt;
+
+&lt;p&gt;I’m very excited about the future of Jupyter Book, and I think that digital humanities/cultural analytics scholars can really benefit from and contribute to it.&lt;/p&gt;
+
+&lt;h1 id=&quot;want-to-build-your-own-jupyter-book&quot;&gt;Want to Build Your Own Jupyter Book?&lt;/h1&gt;
+
+&lt;p&gt;You can find all the code for &lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt; &lt;a href=&quot;https://github.com/melaniewalsh/Intro-Cultural-Analytics&quot;&gt;in this GitHub repository&lt;/a&gt;. In the README, I briefly explain the structure of the repository and what’s required to generate a Jupyter Book. You can also learn more by reading the Jupyter Book &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;documentation&lt;/a&gt; and by exploring &lt;a href=&quot;https://executablebooks.org/en/latest/gallery.html&quot;&gt;the Jupyter Books and repositories in the featured gallery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;feedback&quot;&gt;Feedback?&lt;/h1&gt;
+
+&lt;p&gt;If you have feedback or suggestions about &lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;, or you happen to find it useful, please let me know! I’d love to hear from you via email, &lt;a href=&quot;https://twitter.com/mellymeldubs&quot;&gt;Twitter&lt;/a&gt;, or &lt;a href=&quot;https://github.com/melaniewalsh/Intro-Cultural-Analytics/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</content><author><name>Melanie Walsh</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22thumb%22=%3E%22../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22thumb%22=%3E%22../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introducing an Interactive Textbook for Cultural Analysis with Python</title><link href="http://localhost:4000/intro-ca-jupyter-book/" rel="alternate" type="text/html" title="Introducing an Interactive Textbook for Cultural Analysis with Python" /><published>2021-01-03T00:00:00-08:00</published><updated>2021-01-03T00:00:00-08:00</updated><id>http://localhost:4000/intro-ca-jupyter-book</id><content type="html" xml:base="http://localhost:4000/intro-ca-jupyter-book/">&lt;meta property=&quot;twitter:image&quot; content=&quot;../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png&quot; /&gt;
 
 &lt;p&gt;In this blog post, I will give a brief overview of my work-in-progress textbook, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;,&lt;/a&gt; which I made with a stellar new project called &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book&lt;/a&gt;. Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.&lt;/p&gt;
 

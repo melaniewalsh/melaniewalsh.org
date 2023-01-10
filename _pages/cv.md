@@ -9,7 +9,7 @@ toc_sticky: true
 
 Research Interests
 ---
-Data science, digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
+Data science, digital humanities, cultural analytics, LIS, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
 
 Employment
 ---
@@ -33,7 +33,13 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Quantitative Literary Studies,” *Debates in Digital Humanities*, University of Minnesota Press, forthcoming.
+Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities,” *Debates in the Digital Humanities 2023*, University of Minnesota Press, forthcoming.
+
+Melanie Walsh and Anna Preus, “Not with a Bang But a Tweet: Democracy, Culture Wars, and the Memeification of T.S. Eliot,” *Expressive Networks: Poetry and Platform Cultures*, Amherst College Press, 2023, provisionally accepted, forthcoming.
+
+Maria Antoniak, David Mimno, Rosamund Thalken, Melanie Walsh, Matthew Wilkens, Gregory Yauney, “The Afterlives of Shakespeare and Company in Online Social Readership,” *Journal of Cultural Analytics* and *Modernism/modernity*, forthcoming.
+
+Melanie Walsh and Matt Erlin, “Social and Conceptual Networks in Eighteenth-Century German Periodical Literature,” *Between Network and Narrative: German and European Cultural Histories, 1789-1810*, ed. Birgit Tautz and Crystal Hall, Oxford University Studies in the Enlightenment, forthcoming.
 
 Melanie Walsh and Maria Antoniak, ["The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) *Post45* and *Journal of Cultural Analytics*, April 2021. [[PDF](../Walsh-Antoniak_The-Goodreads-Classics.pdf)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]
 
@@ -48,6 +54,8 @@ Melanie Walsh, [“Tweets of a Native Son: The Quotation and Recirculation of Ja
 visualizations about James Baldwin’s digital afterlives.
 
 ### Essays, Reviews, & Interviews
+
+[“Where Is All The Book Data?”](https://www.publicbooks.org/where-is-all-the-book-data/) *Public Books*, October 2022.
 
 [“Review: Name That Twitter Community!,”](https://reviewsindh.pubpub.org/pub/nttc) *Reviews in Digital Humanities*, January 2020.
 
@@ -65,7 +73,22 @@ visualizations about James Baldwin’s digital afterlives.
 
 Grants, Awards & Fellowships
 ---
-NEH Digital Humanities Level I Advancement Grant ($46,704), National Endowment for the Humanities, Co-PI with David Mimno.
+NEH Digital Humanities Level III Advancement Grant ($350,000), National Endowment for the Humanities, Co-PI with Matthew Wilkens and David Mimno.  
+\*Grant awarded to support “BERT for Humanists.”
+
+Crossdisciplinary Research Cluster Award, Simpson Center for the Humanities, University of Washington, Co-PI with Anna Preus, Geoff Turnovsky, and Richard Watts.   
+\*Awarded to support "Technological Transformation and Human Creativity: The Impact of AI on Authorship, Reading, Translation, and Critique.""
+
+2023 Digital Humanities Summer Fellowship, Simpson Center for the Humanities, University of Washington.    
+\*Awarded to support work on my book, *When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century*.
+
+2022 UW iSchool Strategic Research Fund (SRF) Award, Information School, University of Washington.    
+\*Awarded to support *Investigating Data-Driven Diversity Audits in Public Libraries*.
+
+Best Digital Humanities Training Material 2021, Winner, Digital Humanities Awards 2021.    
+\*Awarded for my online textbook *Introduction to Cultural Analytics & Python*.
+
+NEH Digital Humanities Level I Advancement Grant ($46,704), National Endowment for the Humanities, Co-PI with David Mimno.  
 *Grant awarded to support “BERT for Humanists: Anticipating the Reception of Contemporary NLP in Digital Humanities.”  
 
 Emerging Open Scholarship Award, Honorable Mention, 2020. Awarded by the [Canadian Social Knowledge Institute](https://etcl.uvic.ca/2020/01/14/announcing-the-2020-open-scholarship-awards/) for [Tweets of a Native Son](http://tweetsofanativeson.com/).
@@ -99,6 +122,14 @@ Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010.
 
 Conferences, Presentations, & Workshops
 ---
+“Toward a Critical Data Pedagogy: American Studies Perspectives in the Digital Humanities Classroom”, American Studies Association Conference, New Orleans, LA, November 2022
+
+“Online Readership and Perception of Genre Over Time,” Digital Humanities Conference, Virtual, 2022.
+
+“Computational Reception and Readership Studies,” The Society for the History of Authorship, Reading and Publishing (SHARP) Conference, Amsterdam, Netherlands, July 2022.
+
+“BERT for Humanists & Social Scientists:Applying Large Language Models to Social Media Data,” Tutorials at the 16th International AAAI Conference on Web and Social Media, Atlanta, GA, June 2021.
+
 “Multilingual NLP as Interface,” DARIAH Conference, September 2021.
 
 "Social Textworking: Books, Readers, and Online Media," SHARP, July 2021.
@@ -148,11 +179,13 @@ Teaching
 ---
 INSTRUCTOR:
 
-“INFO 201: Foundational Skills for Data Science,” Winter 2022, Spring 2022, University of Washington.
+“LIS 572: Introduction to Data Science,” Spring 2022, Autumn 2023, Spring 2023, University of Washington.
 
-“INFO 350: Information Ethics & Policy,” Autumn 2021, Winter 2022, University of Washington.
+“INFO 201: Foundational Skills for Data Science,” Winter 2022, Spring 2022, Winter 2023, Spring 2023, University of Washington.
 
-“INFO 498A: Introduction to Cultural Analytics: Data, Computation, & Culture,” Autumn 2021, University of Washington.
+“INFO 350: Information Ethics & Policy,” Autumn 2021, Winter 2022, Autumn 2022, Winter 2023, University of Washington.
+
+“INFO 498A: Introduction to Cultural Analytics: Data, Computation, & Culture,” Autumn 2021, Spring 2023, University of Washington.
 
 [“Introduction to Cultural Analytics: Data, Computation, & Culture,”](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) Spring 2020, Spring 2021, Cornell University.
 
@@ -173,33 +206,14 @@ Technical Skills
 ---
 Python (programming language):
 
--	data analysis with pandas
--	natural language processing with spaCy
--	web scraping with BeautifulSoup and Selenium
--	quantitative network analysis with networkX
-
 R (programming language)
 
 JavaScript (programming language)
 
-Website development and maintenance:
-
-- raw HTML & CSS
-- static-site generators, e.g., Jekyll
-- content management systems, e.g., WordPress
-
-Software packages:
-
--	network analysis and visualization with Gephi
--	data visualization with Tableau
--	mapping with QGIS
--	data cleanup with OpenRefine
--	graphic design with Adobe Photoshop and Adobe Illustrator
-
 
 Service
 ---
-[Post45 Data Collective](https://data.post45.org/), Editorial Board.
+[Post45 Data Collective](https://data.post45.org/), Co-Editor.
 
 [Cornell Data Journal](https://cornelldatajourn.al/), Faculty Mentor, Cornell University, 2020-present.
 

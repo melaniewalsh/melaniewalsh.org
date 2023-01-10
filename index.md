@@ -54,4 +54,4 @@ October 2022 | I published an essay on proprietary book data and open source alt
 
 June 2022 | I became co-editor of the [Post45 Data Collective](https://data.post45.org/) with Dan Sinykin
 
-January 2022 | My online textbook, []*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome), was voted the ["Best Digital Humanities Training Material"](http://dhawards.org/dhawards2021/results/) of 2021
+January 2022 | My online textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome), was voted the ["Best Digital Humanities Training Material"](http://dhawards.org/dhawards2021/results/) of 2021

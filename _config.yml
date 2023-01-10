@@ -97,7 +97,7 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics: 
+analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-86905362-1"
@@ -110,13 +110,13 @@ author:
   avatar           : "/images/Melanie-Walsh-Bio-Photo.png"
   bio              : "Assistant Teaching Professor at the University of Washington"
   links:
-    - label: "Email"
+    - label: "Email (melwalsh@uw.edu)"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:melwalsh@uw.edu
-    - label: "Twitter"
+    - label: "Twitter (@mellymeldubs)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mellymeldubs"
-    - label: "GitHub"
+    - label: "GitHub (@melaniewalsh)"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/melaniewalsh/"
 
@@ -145,7 +145,7 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:melwalsh@uw.edu
-    
+
 
 # Reading Files
 include:
@@ -270,12 +270,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    
+
 defaults:
   # _portfolio
   - scope:
@@ -285,7 +285,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-    
+
 # Defaults
 defaults:
   # _posts
@@ -299,7 +299,7 @@ defaults:
       comments: true
       share: true
       related: true
-      
+
 defaults:
   # _pages
   - scope:

@@ -8,7 +8,7 @@ layout: single
 
 * INFO 201: Foundational Skills for Data Science
 
-  Winter 2022, Spring 2022, Winter 2023 - University of Washington
+  Winter 2022, Spring 2022, Winter 2023, Spring 2023 - University of Washington
 
 * INFO 350: Information Ethics & Policy
 

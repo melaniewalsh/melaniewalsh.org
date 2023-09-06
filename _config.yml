@@ -19,7 +19,7 @@ title                    : "Melanie Walsh"
 title_separator          : "-"
 subtitle                 :  ""
 name                     : "Melanie Walsh"
-description              : "Assistant Teaching Professor at UW iSchool / Digital humanities, cultural analytics, American literature, & social media"
+description              : "Assistant Professor at UW iSchool / Digital humanities, cultural analytics, American literature, & social media"
 url                      : melaniewalsh.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : melaniewalsh
@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Melanie Walsh"
-  avatar           : "/images/Melanie-Walsh-Bio-Photo.png"
-  bio              : "incoming Assistant Professor at the University of Washington"
+  avatar           : "/images/walsh-bio-photo-2023.png"
+  bio              : "Assistant Professor at the University of Washington"
   links:
     - label: "Email (melwalsh@uw.edu)"
       icon: "fas fa-fw fa-envelope-square"

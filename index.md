@@ -37,7 +37,7 @@ feature_row:
 
 ---
 
-Hi, I'm Melanie Walsh, and I'm an incoming Assistant Professor (formerly Assistant Teaching Professor) in the [Information School at the University of Washington](https://ischool.uw.edu/people/faculty/profile/melwalsh). Before joining the faculty at UW, I was a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh), where I worked with [David Mimno](https://mimno.infosci.cornell.edu/). Before that, I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/), where I was a Fellow in the [Humanities Digital Workshop](https://hdw.wustl.edu/). My research interests include data science, digital humanities, cultural analytics, LIS, social media, and American literature & culture---preferably all of the above combined.
+Hi, I'm Melanie Walsh, and I'm an Assistant Professor in the [Information School at the University of Washington](https://ischool.uw.edu/people/faculty/profile/melwalsh). Before joining the faculty at UW, I was a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh), where I worked with [David Mimno](https://mimno.infosci.cornell.edu/). Before that, I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/), where I was a Fellow in the [Humanities Digital Workshop](https://hdw.wustl.edu/). My research interests include data science, digital humanities, cultural analytics, LIS, social media, and American literature & culture---preferably all of the above combined.
 
 I am currently at work on a book project, [*When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century*](/book), which follows the social media afterlives of American authors. I also designed and released a free, open-source textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which introduces the programming language Python to people interested in the humanities and social science.
 
@@ -46,7 +46,9 @@ Additionally, I am co-editor of the [Post45 Data Collective](https://data.post45
 
 # News
 
-January 2023 | We were awarded a Level III NEH Digital Humanities Advancement Grant for our [BERT for Humanists Project](http://www.bertforhumanists.org/).
+September 2023 | I started a new position as a tenure-track Assistant Professor in the Information School at the University of Washington.
+
+January 2023 | We were awarded a Level III NEH Digital Humanities Advancement Grant for our [AI for Humanists Project](http://www.bertforhumanists.org/).
 
 October 2022 | I was [interviewed](https://www.abc.net.au/radionational/programs/sundayextra/who-controls-cultural-data-and-how-is-it-being-used-/101562182) by Australian radio ABC about my essay, "Where Is All The Book Data?"
 

@@ -13,7 +13,9 @@ Data science, digital humanities, cultural analytics, LIS, social media, twentie
 
 Employment
 ---
-Assistant Teaching Professor, Information School, University of Washington, July 2021 - Present
+Assistant Professor, Information School, University of Washington, September 2023 - Present
+
+Assistant Teaching Professor, Information School, University of Washington, July 2021 - September 2023
 
 Postdoctoral Associate and Visiting Lecturer in Information Science, Cornell University, August 2019 – June 2021
 
@@ -33,13 +35,15 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities,” *Debates in the Digital Humanities 2023*, University of Minnesota Press, forthcoming.
-
 Melanie Walsh and Anna Preus, “Not with a Bang But a Tweet: Democracy, Culture Wars, and the Memeification of T.S. Eliot,” *Expressive Networks: Poetry and Platform Cultures*, Amherst College Press, 2023, provisionally accepted, forthcoming.
 
 Maria Antoniak, David Mimno, Rosamund Thalken, Melanie Walsh, Matthew Wilkens, Gregory Yauney, “The Afterlives of Shakespeare and Company in Online Social Readership,” *Journal of Cultural Analytics* and *Modernism/modernity*, forthcoming.
 
 Melanie Walsh and Matt Erlin, “Social and Conceptual Networks in Eighteenth-Century German Periodical Literature,” *Between Network and Narrative: German and European Cultural Histories, 1789-1810*, ed. Birgit Tautz and Crystal Hall, Oxford University Studies in the Enlightenment, forthcoming.
+
+Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap, ["Riveter: Measuring Powerand Social Dynamics Between Entities,"](https://aclanthology.org/2023.acl-demo.36.pdf) Proceedings of the Annual Meeting of the Association for Computation Linguistics (ACL), System Demonstrations, 2024. [[GitHub repo for Riveter](https://github.com/maartensap/riveter-nlp)]
+
+Melanie Walsh, [“The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities,”](https://dhdebates.gc.cuny.edu/read/f3f87448-138c-4d19-8ff8-b06acf40ddd1/section/a57b98ab-0f10-45d0-b205-3e563aab7ea8#ch18) *Debates in the Digital Humanities 2023*, University of Minnesota Press, 2023.
 
 Melanie Walsh and Maria Antoniak, ["The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) *Post45* and *Journal of Cultural Analytics*, April 2021. [[PDF](../Walsh-Antoniak_The-Goodreads-Classics.pdf)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]
 
@@ -54,6 +58,8 @@ Melanie Walsh, [“Tweets of a Native Son: The Quotation and Recirculation of Ja
 visualizations about James Baldwin’s digital afterlives.
 
 ### Essays, Reviews, & Interviews
+
+[“What 35 Years of Data Can Tell Us About Who Will Win the National Book Award,”](https://www.publicbooks.org/what-35-years-of-data-can-tell-us-about-who-will-win-the-national-book-award) with Alexander Manshel, *Public Books*, November 2023.
 
 [“Where Is All The Book Data?”](https://www.publicbooks.org/where-is-all-the-book-data/) *Public Books*, October 2022.
 
@@ -73,6 +79,10 @@ visualizations about James Baldwin’s digital afterlives.
 
 Grants, Awards & Fellowships
 ---
+Mozilla Responsible Computing Challenge ($150,000), Mozilla, PI.    
+Co-PIs with Anna Preus, Miriam Posner, Amardeep Singh, Sylvia Fernandez.  
+\*Grant awarded to support [“Responsible Datasets in Context: Collaborating Designing for Ethical Humanities Data Education,”](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/) which helps provide richly contextualized data for undergraduate computing education.
+
 NEH Digital Humanities Level III Advancement Grant ($350,000), National Endowment for the Humanities, Co-PI with Matthew Wilkens and David Mimno.  
 \*Grant awarded to support “BERT for Humanists.”
 
@@ -122,13 +132,30 @@ Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010.
 
 Conferences, Presentations, & Workshops
 ---
+“Large Language Models for Humanists: A Hands-On Introduction” AI, Creativity, & Humanities Research Cluster, University of Washington, with Maria Antoniak, 2023.
+
+“Poetic Authorship in the Digital Age: Rupi Kaur, Instagram, and Performing Authenticity in Public, American Studies Association Conference,
+Montreal, Canada, 2023.
+
+“Publisher-Platform Data Relationships," Exploring the Anti-Ownership Ebook Economy, Engelberg Center on Innovation Law & Policy, New York University (NYU)/ *Invited Panelist
+
+“David Foster Wallace Bros on Reddit,” Association for the Study of the Arts of the Present (ASAP), Seattle, WA, 2023.
+
+“Rupi Kaur and Reception Data," Association for the Study of the Arts of the Present (ASAP), Seattle, WA, 2023.
+
+“The Social Media Lives of Texts: Reception in the Age of the Internet," New Horizons in Digital Humanities & Cultural Data Science, University of Hong Kong (HKU), 2023. *Invited Talk
+
+“Not With a Bang But a Tweet," The Lucy Family Institute for Data & Society. Department of English, Notre Dame (virtual), 2023. *Invited Talk
+
+“Collections as Data: State of the Field and Future Directions," Collections as Data: Part to Whole, Mellon-funded initiative, Vancouver, Canada, 2023.
+
 “Toward a Critical Data Pedagogy: American Studies Perspectives in the Digital Humanities Classroom”, American Studies Association Conference, New Orleans, LA, November 2022
 
 “Online Readership and Perception of Genre Over Time,” Digital Humanities Conference, Virtual, 2022.
 
 “Computational Reception and Readership Studies,” The Society for the History of Authorship, Reading and Publishing (SHARP) Conference, Amsterdam, Netherlands, July 2022.
 
-“BERT for Humanists & Social Scientists:Applying Large Language Models to Social Media Data,” Tutorials at the 16th International AAAI Conference on Web and Social Media, Atlanta, GA, June 2021.
+“BERT for Humanists & Social Scientists: Applying Large Language Models to Social Media Data,” Tutorials at the 16th International AAAI Conference on Web and Social Media, Atlanta, GA, June 2021.
 
 “Multilingual NLP as Interface,” DARIAH Conference, September 2021.
 
@@ -207,8 +234,6 @@ Technical Skills
 Python (programming language):
 
 R (programming language)
-
-JavaScript (programming language)
 
 
 Service

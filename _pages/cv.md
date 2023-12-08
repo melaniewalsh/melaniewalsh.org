@@ -41,7 +41,7 @@ Maria Antoniak, David Mimno, Rosamund Thalken, Melanie Walsh, Matthew Wilkens, G
 
 Melanie Walsh and Matt Erlin, “Social and Conceptual Networks in Eighteenth-Century German Periodical Literature,” *Between Network and Narrative: German and European Cultural Histories, 1789-1810*, ed. Birgit Tautz and Crystal Hall, Oxford University Studies in the Enlightenment, forthcoming.
 
-Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap, ["Riveter: Measuring Powerand Social Dynamics Between Entities,"](https://aclanthology.org/2023.acl-demo.36.pdf) Proceedings of the Annual Meeting of the Association for Computation Linguistics (ACL), System Demonstrations, 2024. [[GitHub repo for Riveter](https://github.com/maartensap/riveter-nlp)]
+Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap, ["Riveter: Measuring Power and Social Dynamics Between Entities,"](https://aclanthology.org/2023.acl-demo.36.pdf) Proceedings of the Annual Meeting of the Association for Computation Linguistics (ACL), System Demonstrations, 2024. [[GitHub repo for Riveter](https://github.com/maartensap/riveter-nlp)]
 
 Melanie Walsh, [“The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities,”](https://dhdebates.gc.cuny.edu/read/f3f87448-138c-4d19-8ff8-b06acf40ddd1/section/a57b98ab-0f10-45d0-b205-3e563aab7ea8#ch18) *Debates in the Digital Humanities 2023*, University of Minnesota Press, 2023.
 

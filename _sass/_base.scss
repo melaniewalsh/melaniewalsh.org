@@ -1,6 +1,66 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+ :root {
+  --global-theme-color: #9600ff; /* Replace with your desired color */
+  --global-hover-color: #6d00ba; /* Replace with your desired color */
+
+  // --global-text-color: #your-text-color; /* You can also define other global variables here */
+  // --global-divider-color: #your-divider-color;
+  // --global-bg-color: #your-background-color;
+  /* Add other global variables as needed */
+}
+
+.publications ol.bibliography li .links a.bibtex {
+  color: white !important; /* Text color */
+  border: 1px solid var(--global-text-color); /* Border color */
+  background-color: #9600ff; /* Optional: Add a background color */
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  margin-left: 0;
+  /* Add any additional styling you want */
+  font-weight: bold; /* Example: Make text bold */
+}
+
+.publications ol.bibliography li .links a.abstract {
+  color: white !important; /* Text color */
+  border: 1px solid var(--global-text-color); /* Border color */
+  background-color: #9600ff; /* Optional: Add a background color */
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  margin-left: 0;
+  /* Add any additional styling you want */
+  font-weight: bold; /* Example: Make text bold */
+}
+
+.publications ol.bibliography li .links a {
+  color: white !important; /* Text color */
+  border: 1px solid var(--global-text-color); /* Border color */
+  background-color: black; /* Optional: Add a background color */
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  margin-left: 0;
+  /* Add any additional styling you want */
+  font-weight: bold; /* Example: Make text bold */
+}
+
+.publications h2 {
+  color: #9600ff !important;
+}
+
+.card .card-title {
+  color: black !important;
+}
+
+.projects h2 {
+  color: #9600ff !important;
+}
 
 // Typography
 

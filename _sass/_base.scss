@@ -11,6 +11,34 @@
   /* Add other global variables as needed */
 }
 
+
+/* Dark mode specific styles */
+html[data-theme="dark"] {
+  :root {
+    --global-theme-color: #d7a0ff !important; /* Replace with your desired color */
+    --global-hover-color: #e5c0ff !important; /* Replace with your desired color */
+  
+    // --global-text-color: #ffffff; /* White text for dark mode */
+    // --global-divider-color: #555555;
+    // --global-bg-color: #000000;
+    // --global-card-bg-color: #333333;
+  }
+}
+  
+  html[data-theme="dark"] .card .card-title {
+    color: #ffffff !important; /* Ensure card titles are readable in dark mode */
+  }
+
+  html[data-theme="dark"] { .publications h2 {
+    color: #d7a0ff !important;
+  }
+}
+
+  html[data-theme="dark"] {.projects h2 {
+    color: #d7a0ff !important;
+  }
+  }
+
 .publications ol.bibliography li .links a.bibtex {
   color: white !important; /* Text color */
   border: 1px solid var(--global-text-color); /* Border color */

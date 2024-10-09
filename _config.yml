@@ -224,6 +224,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - Pandas/
+  - network/
+  - got-network/
+  - dh-2018-slides/
   - vonnegut-network/
   - bin/
   - CONTRIBUTING.md

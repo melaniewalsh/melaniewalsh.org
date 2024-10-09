@@ -1,14 +1,16 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - melaniewalsh
+#   - Post45-Data-Collective
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - maria-antoniak/poetry-eval
+  - melaniewalsh/Intro-Cultural-Analytics
+  - maria-antoniak/goodreads-scraper
+  - melaniewalsh/responsible-datasets-in-context
+  - melaniewalsh/sample-social-network-datasets
+  - Post45-Data-Collective/data
+
+ 
+ 

@@ -1,97 +1,76 @@
-- title: General Information
+- title: Current Position
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Melanie Walsh
+    - name: Position
+      value: Assistant Professor, University of Washington
+    - name: Affiliations
+      value:
+        - Humanities Data Lab ; Textual Studies; eScience Institute; <a href="https://depts.washington.edu/societytech/wordpress/affiliate-researchers/">Society + Technology</a>
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+- title: Research Areas  
+  type: list  
+  contents:  
+    - Digital Humanities & Cultural Analytics
+    - Critical Data Studies & AI
+    - 20th and 21st-century American Literature
+    - Libraries  
+    - Social Media  
+    - Readership and Reception Studies  
+    - Natural Language Processing
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+- title: Employment  
+  type: time_table  
+  contents:  
+    - title: Assistant Professor  
+      institution: Information School, University of Washington  
+      year: 2023 - Present  
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Assistant Teaching Professor  
+      institution: Information School, University of Washington  
+      year: 2021 - 023  
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Postdoctoral Associate and Visiting Lecturer in Information Science  
+      institution: Cornell University  
+      year: 2019 – 2021  
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Education  
+  type: time_table  
+  contents:  
+    - title: Ph.D. in English & American Literature  
+      institution: Washington University in St. Louis, MO  
+      year: 2013 – 2019  
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: M.A. in English  
+      institution: Washington University in St. Louis, MO  
+      year: 2015  
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: B.A. in English  
+      institution: Washington University in St. Louis, MO  
+      year: 2013  
+      description:  
+        - summa cum laude 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications  
+  type: list  
+  contents:  
+    - You can explore <a href="../publications">my publications here</a>.
+- title: Service (Selected)
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "2024-Present: Computational Humanities Research journal, Advisory Board"
+    - "2022-Present: Post45 Data Collective, Co-Editor"
+    - "2024-Present: Center for Advances in Libraries, Museums, and Archives (CALMA), Executive Council Member"
+
+ 
+    #   - |
+    #     [“Review: Name That Twitter Community!,”](https://reviewsindh.pubpub.org/pub/nttc) *Reviews in Digital Humanities*, January 2020.
+    #   - |
+    #     ["Beautifying Beale Street,"](https://lareviewofbooks.org/article/beautifying-beale-street/) *Los Angeles Review of Books*, December 2018.
+    #   - |
+    #     ["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://humanities.wustl.edu/news/melanie-walsh-cathy-davidson-digital-humanities-and-her-journey-revolutionize-higher-ed) *Human Ties*, September 2018.
+
+    # - Fiction
+    #   - |
+    #     ["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader*, December 

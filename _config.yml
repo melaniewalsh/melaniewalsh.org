@@ -224,7 +224,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - vonnegut-network/data.json
+  - vonnegut-network/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

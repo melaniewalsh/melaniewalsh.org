@@ -154,8 +154,12 @@ html[data-theme="dark"] {
     color: #ffffff !important; /* Ensure card titles are readable in dark mode */
   }
 
-  .card .card-text {
+  html[data-theme="dark"] .card .card-text {
     color: #ffffff !important; /* Ensure card titles are readable in dark mode */
+  }
+
+  .card .card-text {
+    color: black !important; /* Ensure card titles are readable in dark mode */
   }
 
   html[data-theme="dark"] { .publications h2 {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mozilla Responsible Computing Challenge Global Conclave
-date: 2024-10-13 16:11:00-0400
+date: 2024-10-22 16:11:00-0400
 inline: true
 related_posts: false
 ---

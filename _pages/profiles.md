@@ -37,7 +37,7 @@ Working with students is one of the best parts of my job! I am lucky to collabor
 
 **Future PhD students**: I am recruiting one student to join our group in 2025-2026. 
 
-Our current research is focused on cultural analytics/digital humanities, critical data studies, and critical AI. 
+We broadly work in the fields of digital humanities/cultural analytics and critical data studies/AI, usually with a specific focus on literature, libraries, cultural heritage, and social media.
 
 I look for students who have strong programming and technical skills but also welcome students with little to no computational background. I value students with investment in the humanities, especially literature and libraries.
 

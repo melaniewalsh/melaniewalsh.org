@@ -250,7 +250,7 @@
       <a href="{{ entry.ca }}" class="btn btn-sm z-depth-0" role="button">Journal of Cultural Analytics <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
        {% if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+        <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}

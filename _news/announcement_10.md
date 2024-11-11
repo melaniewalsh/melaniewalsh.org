@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a keynote talk at the Hong Kong Association for Digital Humanities's (HKADH)  inaugural conference in Hong Kong.
+I will be giving a keynote talk at the Hong Kong Association for Digital Humanities' (HKADH)  inaugural conference in Hong Kong.

@@ -5,7 +5,7 @@
   --global-theme-color: #9600ff; /* Replace with your desired color */
   --global-hover-color: #6d00ba; /* Replace with your desired color */
 
-  // --global-text-color: #your-text-color; /* You can also define other global variables here */
+  --global-text-color: black; /* You can also define other global variables here */
   // --global-divider-color: #your-divider-color;
   // --global-bg-color: #your-background-color;
   /* Add other global variables as needed */
@@ -18,7 +18,7 @@ html[data-theme="dark"] {
     --global-theme-color: #d7a0ff !important; /* Replace with your desired color */
     --global-hover-color: #e5c0ff !important; /* Replace with your desired color */
   
-    // --global-text-color: #ffffff; /* White text for dark mode */
+    --global-text-color: #ffffff; /* White text for dark mode */
     // --global-divider-color: #555555;
     // --global-bg-color: #000000;
     // --global-card-bg-color: #333333;

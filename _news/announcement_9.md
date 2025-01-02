@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-We will be presenting our work at the [Computational Humanities Research (CHR)](https://2024.computational-humanities-research.org/) conference in Aarhus, Denmark.
+We presented our paper, "Does ChatGPT Have a Poetic Style?" at the [Computational Humanities Research (CHR)](https://2024.computational-humanities-research.org/) conference in Aarhus, Denmark.

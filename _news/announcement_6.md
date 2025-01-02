@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-With Connor Rey, I will be speakikng at the ["When Machine Learning Meets Cultural Heritage Collections"](https://calma.ischool.uw.edu/uw-event/when-machine-learning-meets-cultural-heritage-collections/) roundtable, sponsored by the Center for Advancements in Libraries, Museums, and Archives (CALMA).
+With Connor Rey, I spoke at the ["When Machine Learning Meets Cultural Heritage Collections"](https://calma.ischool.uw.edu/uw-event/when-machine-learning-meets-cultural-heritage-collections/) roundtable, sponsored by the Center for Advancements in Libraries, Museums, and Archives (CALMA).

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the Data Science/Computational Social Science (DS/CSS) Seminar at the University of Michigan.
+I gave a talk, "What Do LLMs Know About Poetry?", at the Data Science/Computational Social Science (DS/CSS) Seminar at the University of Michigan.

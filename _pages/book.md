@@ -2,6 +2,7 @@
 layout: page
 title: book
 permalink: /book/
+nav: true
 ---
 
 *When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century* examines how social media platforms like Twitter, YouTube, and Reddit transformed the use, circulation, and reception of historical literature in the new millennium. By drawing on large-scale social media data, qualitative interviews, close reading, and archival research, I show how these platforms enabled ordinary readers and individuals—not just publishers and scholars—to widely redistribute older print literary works and to repurpose them toward new social, political, and economic ends. 

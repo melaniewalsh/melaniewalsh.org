@@ -39,7 +39,7 @@ My group broadly works in the fields of digital humanities, cultural analytics, 
 
 I look for students who have strong programming and technical skills but also welcome students with little to no computational background. I value students with investment in the humanities, especially literature and libraries.
 
-If you're interested in joining my group, you can send me a short email about your *specific* research interests at melwalsh@uw.edu. Sadly I won't be able to respond to most emails, but I will note your interest, which is helpful.
+If you're interested in joining my group, you can send me a short email about your *specific* research interests at melwalsh at uw dot edu. Sadly I won't be able to respond to most emails, but I will note your interest, which is helpful.
 
 To apply to work with me, you can [apply to the PhD program](https://ischool.uw.edu/programs/phd/admissions) in the UW Information School and list me as an advisor. 
 
@@ -49,7 +49,7 @@ To apply to work with me, you can [apply to the PhD program](https://ischool.uw.
 
 **Independent Studies**: Periodically I also supervise independent studies. However, I will not be supervising independent studies in 2024-2025.
 
-**Summer Program**: I have worked with students for the past two summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). HDSSI will run again in summer 2025, and I will post more information about this opportunity in early 2025.
+**Summer Program**: I have worked with students for the past two summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). HDSSI will run again in summer 2025, but applications have closed.
 
 **HDSSI 2024**  
 Grad students: Suh Young Choi (Classics)  

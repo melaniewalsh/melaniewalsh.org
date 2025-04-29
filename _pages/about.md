@@ -30,5 +30,5 @@ With wonderful collaborators, I also lead several projects that I'm proud of:
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [AI for Humanists](https://www.aiforhumanists.com/)
 
-In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but our interests seem to be converging.
+In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but, confusingly, our interests seem to be converging.
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor **|** Information School **|** University of Washington **|** Seattle, USA 🌦️😎
+subtitle: Assistant Professor <b>|</b> Information School <b>|</b> University of Washington <b>|</b> Seattle, USA 🌦️😎
 
 profile:
   align: right

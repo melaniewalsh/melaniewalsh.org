@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk, "What Do LLMs Know About Poetry?", at [Humanities AI Conference](https://humanitiesctr.cas.lehigh.edu/ai-conference) at Lehigh University.
+I gave a talk, "What Do LLMs Know About Poetry?", at the [Humanities AI Conference](https://humanitiesctr.cas.lehigh.edu/ai-conference) at Lehigh University.

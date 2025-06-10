@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting our paper, "Algorithms in the Stacks: Investigating data-driven, for-profit diversity audits in public libraries," at FAccT in Athens, Greece. Session details [here](https://programs.sigchi.org/facct/2025/program/content/201917).
+I will be presenting our paper, ["Algorithms in the Stacks: Investigating data-driven, for-profit diversity audits in public libraries,"](https://arxiv.org/abs/2505.14890) at FAccT in Athens, Greece. Session details [here](https://programs.sigchi.org/facct/2025/program/content/201917).

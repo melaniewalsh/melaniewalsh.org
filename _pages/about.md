@@ -23,12 +23,12 @@ My research interests include data science, digital humanities/cultural analytic
 
 I am currently at work on a book project, [***When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century***](/book), which follows the social media afterlives of American authors. 
 
-I also designed and released a free, open-source textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which introduces the programming language Python to people interested in the humanities and social science.
+I also designed and released a free, open-source textbook, [***Introduction to Cultural Analytics & Python***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which introduces the programming language Python to people interested in the humanities and social science.
 
 With wonderful collaborators, I also lead several projects that I'm proud of:
 - [Post45 Data Collective](https://data.post45.org/our-data/)
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [AI for Humanists](https://www.aiforhumanists.com/)
 
-In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but, confusingly, our interests seem to be converging.
+In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but our interests are converging.
 

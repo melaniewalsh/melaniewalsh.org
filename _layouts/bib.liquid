@@ -36,6 +36,7 @@
       | default: entry.post45 
       | default: entry.arxiv 
       | default: entry.debates 
+      | default: entry.pudding 
       | default: entry.expressive
       | default: entry.interactive 
       | default: entry.ca %}
@@ -224,6 +225,9 @@
       {%- endif %}
        {%- if entry.debates %}
       <a href="{{ entry.debates }}" class="btn btn-sm z-depth-0" role="button">Debates in DH <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
+       {%- if entry.pudding %}
+      <a href="{{ entry.pudding }}" class="btn btn-sm z-depth-0" role="button">The Pudding<sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
         {%- if entry.expressive %}
       <a href="{{ entry.expressive }}" class="btn btn-sm z-depth-0" role="button">Expressive Networks<sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>

@@ -220,6 +220,9 @@
       {%- if entry.book %}
       <a href="{{ entry.book }}" class="btn btn-sm z-depth-0" role="button">Book <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
+         {%- if entry.pub_weekly %}
+      <a href="{{ entry.book }}" class="btn btn-sm z-depth-0" role="button">Publishers Weekly <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
       {%- if entry.link %}
       <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">Link <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}

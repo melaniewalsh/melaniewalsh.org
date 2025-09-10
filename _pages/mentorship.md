@@ -33,23 +33,25 @@ Working with students is one of the best parts of my job! I am lucky to collabor
 
 # PhD
 
-**Current PhD students**: [Neel Gupta](https://ischool.uw.edu/people/phd/profile/ngupta1)
+**Current PhD students**: 
+- [Neel Gupta](https://ischool.uw.edu/people/phd/profile/ngupta1)
+- [Imani Finkley](https://imanif.github.io/)
 
-My group broadly works in the fields of digital humanities, cultural analytics, and critical data studies/AI, with a focus on contemporary books and publishing, public libraries, cultural heritage, and social media.
+My group broadly works in the fields of digital humanities, cultural analytics, and critical data studies/critical AI, with a focus on contemporary books and publishing, public libraries, cultural heritage, and social media.
 
-I look for students who have strong programming and technical skills but also welcome students with little to no computational background. I value students with investment in the humanities, especially literature and libraries.
-
-If you're interested in joining my group, you can send me a short email about your *specific* research interests at melwalsh at uw dot edu. Sadly I won't be able to respond to most emails, but I will note your interest, which is helpful.
-
-To apply to work with me, you can [apply to the PhD program](https://ischool.uw.edu/programs/phd/admissions) in the UW Information School and list me as an advisor. 
+In 2025-2026, I am not currently planning to accept new PhD students as a solo advisor, though there may be co-advising opportunities. You can learn more about other faculty in the iSchool and apply to the PhD program here: [https://ischool.uw.edu/programs/phd/admissions](https://ischool.uw.edu/programs/phd/admissions). 
 
 # Other Mentorship 
 
 **RAships**: Occasionally I have other paid research opportunities for students (both graduate and undergraduate). When I do, I circulate advertisements to relevant departments on campus, and I will also post them here.
 
-**Independent Studies**: Periodically I also supervise independent studies. However, I will not be supervising independent studies in 2024-2025.
+**Independent Studies**: Periodically I also supervise independent studies. However, I will not be supervising independent studies in 2025-2026.
 
-**Summer Program**: I have worked with students for the past two summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). HDSSI will run again in summer 2025, but applications have closed.
+**Summer Program**: I have worked with students for the past three summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). Pending funding HDSSI will run again in summer 2026, with applications opening in late winter/early spring.
+
+**HDSSI 2025**  
+Grad students: Neel Gupta (iSchool)  
+Undergraduate students: Hongyuan (Tony) Dong, Em Backstrom, Karalee Harris, Daniella Maor
 
 **HDSSI 2024**  
 Grad students: Suh Young Choi (Classics)  

@@ -39,6 +39,8 @@
       | default: entry.pudding 
       | default: entry.expressive
       | default: entry.interactive 
+       | default: entry.pub_weekly
+            | default: entry.johd
       | default: entry.ca %}
       
   {% if entry.preview contains '://' %}
@@ -220,6 +222,9 @@
       {%- if entry.book %}
       <a href="{{ entry.book }}" class="btn btn-sm z-depth-0" role="button">Book <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
+        {%- if entry.johd %}
+      <a href="{{ entry.johd }}" class="btn btn-sm z-depth-0" role="button">Journal of Open Humanities Data <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
        {%- if entry.pub_weekly %}
       <a href="{{ entry.pub_weekly }}" class="btn btn-sm z-depth-0" role="button">Publishers Weekly <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
@@ -263,12 +268,16 @@
        {% if entry.arxiv %}
         <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {% endif %}
-      {% if entry.pdf %}
-        {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF <i class="fa-solid fa-download"></i></a>
-        {% else %}
-         <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF <i class="fa-solid fa-download"></i></a>
-        {% endif %}
+   {% if entry.pdf %}
+  {% if entry.pdf contains '://' %}
+    <a href="{{ entry.pdf }}" target="_blank" class="btn btn-sm z-depth-0" role="button">
+      PDF <i class="fa-solid fa-download"></i>
+    </a>
+  {% else %}
+    <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank" class="btn btn-sm z-depth-0" role="button">
+      PDF <i class="fa-solid fa-download"></i>
+    </a>
+  {% endif %}
       {% endif %}
       {%- if entry.interactive %}
       <a href="{{ entry.interactive }}" class="btn btn-sm z-depth-0" role="button">Interactive Plots <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>

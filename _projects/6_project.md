@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Literatur(e)dle
+title: Versedle
 description: A Wordle-inspired game where you guess who wrote famous literary lines. 
-img: assets/img/literaturdle.png
-redirect: https://melaniewalsh.github.io/literaturdle/
+img: assets/img/versedle-logo.png
+redirect: https://melaniewalsh.github.io/versedle/
 importance: 2
 category: fun
 ---

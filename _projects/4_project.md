@@ -2,7 +2,7 @@
 layout: page
 title: Lil Micofiction Generator
 description: A React application that tells randomly-generated stories about Academia 📚, Hollywood ⭐, and the NBA 🏀.
-img:
+img: assets/img/micro.png
 importance: 3
 category: fun
 redirect: https://melaniewalsh.github.io/lil-microfiction-generator/

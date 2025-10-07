@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Melanie Walsh's Blog # blog_name will be displayed in your blog page
 blog_description: home of my very intermittent blogging
 permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:

@@ -30,7 +30,7 @@ With wonderful collaborators, I lead several projects that I'm proud of:
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 - [AI for Humanists](https://www.aiforhumanists.com/)
 
-I made a v niche Wordle-universe game called Versedle, where you guess who wrote lines of literature:
+I also made a Wordle-universe game called Versedle, where you guess who wrote lines of literature:
 - [Versedle](https://melaniewalsh.github.io/versedle/)
 
 You can find me on [Bluesky](https://bsky.app/profile/mellymeldubs.bsky.social) or send me an email at **melwalsh** at **uw** dot **edu**.

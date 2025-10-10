@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I'm giving a talk, ["Viral Authors: Postwar American Literature in the Age of Social,"](https://cdh.princeton.edu/events/melanie-walsh/) at Princeton, sponsored by the Center for Digital Humanities.
+I'm giving a talk, ["Viral Authors: Postwar American Literature in the Age of Social Media and AI,"](https://cdh.princeton.edu/events/melanie-walsh/) at Princeton, sponsored by the Center for Digital Humanities.

@@ -288,6 +288,9 @@
       {%- if entry.code_data %}
       <a href="{{ entry.code_data }}" class="btn btn-sm z-depth-0" role="button">Code & Data <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
+       {%- if entry.tutorial %}
+      <a href="{{ entry.tutorial }}" class="btn btn-sm z-depth-0" role="button">Tutorial <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
      
       {%- if entry.data %}
       <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>

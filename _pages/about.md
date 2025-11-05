@@ -19,7 +19,7 @@ Hi, I'm Melanie Walsh. I'm an Assistant Professor in the [**Information School**
 
 Before UW, I was a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh), where I worked with [David Mimno](https://mimno.infosci.cornell.edu/). I received my PhD in English Literature from [Washington University in St. Louis](https://english.wustl.edu/), where I worked with [William J. Maxwell](https://artsci.washu.edu/faculty-staff/william-j-maxwell).
 
-My research interests include data science, digital humanities, literature, libraries, and social media. I investigate how data and computational methods shape contemporary culture, and how they can be used to understand culture in turn. I often focus on the social lives of books and readers. You can download my full <a href = "assets/pdf/Walsh-CV-Current.pdf">CV<i class="fa-solid fa-file-pdf"></i></a> here.
+My research interests include data science, digital humanities and cultural analytics, literature, libraries, and social media. I investigate how data and computational methods shape contemporary culture, and how they can be used to understand culture in turn. I often focus on the social lives of books and readers. You can download my full <a href = "assets/pdf/Walsh-CV-Current.pdf">CV<i class="fa-solid fa-file-pdf"></i></a> here.
 
 I am currently at work on a book project, [***When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century***](/book), which follows the social media afterlives of American authors. 
 

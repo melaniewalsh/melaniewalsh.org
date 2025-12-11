@@ -99,7 +99,7 @@
   press={🎙️I spoke about this essay with <a href="https://www.abc.net.au/listen/programs/sundayextra/who-controls-cultural-data-and-how-is-it-being-used-/101562182">Australian radio ABC</a>.🎙️},
   interview={https://www.abc.net.au/listen/programs/sundayextra/who-controls-cultural-data-and-how-is-it-being-used-/101562182},
   author={Walsh, Melanie}, year={2022},
-  selected={true},
+ 
 
   sydney={https://sydneyreviewofbooks.com/essays/where-is-all-the-book-data},
   preview={book-data.png}}
@@ -112,7 +112,7 @@
   month = {aug},
   pub_weekly={https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/98304-the-sneaky-gender-bias-in-picture-books-animal-characters.html},
   author={Walsh, Melanie},
-  selected={true},
+ 
   preview={sneaky.png}}
 
   @article{guptaSeattlePublicLibrarys2025,
@@ -203,6 +203,28 @@ bibtex_show={true}}
   langid = {english},
 }
 
+@inproceedings{guptaCanonCirculationTracking2025,
+  title = {The {{Canon}} in {{Circulation}}: {{Tracking}} the {{Reception}} of {{Norton Anthology Authors}} in {{Library Checkout Data}}},
+  shorttitle = {The {{Canon}} in {{Circulation}}},
+  booktitle = {Computational {{Humanities Research}}},
+  author = {Gupta, Neel and Maor, Daniella and Harris, Karalee and Backstrom, Emily and Dong, Hongyuan and Walsh, Melanie},
+  editor = {Arnold, Taylor and Fantoli, Margherita and Ros, {and} Ruben},
+  year = {2025},
+  volume = {3},
+  pages = {1510--1522},
+  month = dec,
+  doi = {10.63744/P6qPH135jhY2},
+  urldate = {2025-12-10},
+  pdf = {Canon-in-Circulation},
+  code_data = {https://github.com/melaniewalsh/Canon-in-Circulation},
+  interactive = {https://melaniewalsh.github.io/whats-seattle-reading/posts/norton-anthology-american/},
+  preview = {canon.png},
+  selected={true},
+  ach = {https://anthology.ach.org/volumes/vol0003/the-canon-in-circulation-tracking-reception-of-in/},
+  bibtex_show={true},
+  abstract = {Which canonical American authors are the public reading, and why? We explore this question by analyzing nearly two decades of book circulation data from the Seattle Public Library (SPL), one of the only public libraries in the United States to make anonymized checkout data publicly available. Focusing on the 93 authors included in the post-1945 volume of <em>The Norton Anthology of American Literature</em> (<em>NAAL</em>), we examine 1.6k unique works and almost one million checkouts to better understand contemporary literary reception beyond the classroom. We present a novel dataset that can support future reception research and serve as a benchmark for future <em>Work</em>-level clustering approaches. Our findings suggest that the few genre fiction authors in the <em>NAAL</em>—particularly writers of science fiction—dominate the checkouts, and that circulation spikes are often triggered by high-profile media adaptations, the death of an author, and potentially even scandal. We share an open-source, interactive tool that allows users to explore checkout trends for any post-1945 <em>NAAL</em> author or work over the last 20 years.}
+}
+
 @inproceedings{miller-2025-bookreconciler,
     title = "BookReconciler📘💎: An Open-Source Tool for Metadata Enrichment and Work-Level Clustering",
     author = "Miller, Matt  and
@@ -214,8 +236,13 @@ bibtex_show={true}}
     month = dec,
     year = "2025",
     publisher = "ACM/IEEE",
+    selected={true},
     preview={bookreconociler-logo-ps.jpg},
+    pdf ={BookReconciler.pdf},
+    bibtex_show={true},
+    abstract = {We present BookReconciler, an open-source tool for enhancing and clustering book data. BookReconciler allows users to take spreadsheets with minimal metadata, such as book title and author, and automatically 1) add authoritative, persistent identifiers like ISBNs 2) and cluster related Expressions and Manifestations of the same Work, e.g., different translations or editions. This enhancement makes it easier to combine related collections and analyze books at scale. The tool is currently designed as an extension for OpenRefine---a popular software application---and connects to major bibliographic services including the Library of Congress, VIAF, OCLC, HathiTrust, Google Books, and Wikidata. Our approach prioritizes human judgment. Through an interactive interface, users can manually evaluate matches and define the contours of a Work (e.g., to include translations or not). We evaluate reconciliation performance on datasets of U.S. prize-winning books and contemporary world fiction. BookReconciler achieves near-perfect accuracy for U.S. works but lower performance for global texts, reflecting structural weaknesses in bibliographic infrastructures for non-English and global literature. Overall, BookReconciler supports the reuse of bibliographic data across domains and applications, contributing to ongoing work in digital libraries and digital humanities.}
    }
+
 @inproceedings{bhyravajjula-etal-2025-much,
     title = "so much depends / upon / a whitespace: Why Whitespace Matters for Poets and {LLM}s",
     author = "Bhyravajjula, Sriharsh  and
@@ -268,7 +295,7 @@ bibtex_show={true}}
   ca={https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism},
   post45={https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/},
   journal={Post45 and Journal of Cultural Analytics},
-  selected={true},
+
 
   pdf={https://culturalanalytics.org/article/22221.pdf},
   preview={goodreads-classics.png},
@@ -316,7 +343,7 @@ publisher={Jupyter Book}, author={Walsh, Melanie}, year={2021} }
     pdf = {ChatGPT-Poetic-Style-CHR2024.pdf},
 code= {https://github.com/melaniewalsh/chatgpt_poetry},
 bibtex_show = {true}, 
-selected={true},
+
    booktitle={Computational Humanities Research (CHR)},
  }
 

@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+## Textbook
+
+I designed and released a free, open-source textbook, [***Introduction to Cultural Analytics & Python***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which introduces the programming language Python to people interested in the humanities and social science.
+
 ### Undergraduate Courses
 
 * Artificial Intelligence, Text Reuse, and the Art of Stealing 

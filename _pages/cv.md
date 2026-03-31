@@ -8,5 +8,5 @@ cv_pdf: Walsh-CV-Current.pdf
 description:
 toc:
   sidebar: left
-# redirect: assets/pdf/Walsh-CV-2024-10-06.pdf
+redirect_to: assets/pdf/Walsh-CV-Current.pdf
 ---

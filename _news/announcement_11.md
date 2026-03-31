@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I am presenting on [a panel at MLA](https://mla.confex.com/mla/2025/forum/sessions/readsessiondrill.cgi?username=19236&password=354262) for our "Responsible Datasets in Context" project in New Orleans.
+I am presenting on [a panel at MLA](https://mla.confex.com/mla/2025/forum/sessions/readsessiondrill.cgi?username=19236&password=354262) for our "Responsible Datasets in Context" project in **New Orleans**.

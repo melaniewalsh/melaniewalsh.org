@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lil Micofiction Generator
+title: Lil Microfiction Generator
 description: A React application that tells randomly-generated stories about Academia 📚, Hollywood ⭐, and the NBA 🏀.
 img: assets/img/micro.png
 importance: 3

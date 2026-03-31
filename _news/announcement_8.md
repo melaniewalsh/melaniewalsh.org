@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the CNRS AI for Science, Science for AI (ASSAI) [Digital Humanities and AI Final Conference](https://semtemiahn.hypotheses.org/final-conference) in Paris, France.
+I gave a talk at the CNRS AI for Science, Science for AI (ASSAI) [Digital Humanities and AI Final Conference](https://semtemiahn.hypotheses.org/final-conference) in **Paris, France**.

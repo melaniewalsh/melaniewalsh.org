@@ -3,7 +3,7 @@ layout: page
 permalink: /github-repos/
 title: github repos
 description: Check out these GitHub repositories by me and my collaborators.
-nav: true
+nav: false
 nav_order: 4
 ---
 

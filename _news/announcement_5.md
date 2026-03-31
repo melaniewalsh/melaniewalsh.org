@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-This week I am attending the Mozilla Responsible Computing Challenge (RCC) Global Conclave in Kerala, India on behalf of the [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/) project. 
+This week I am attending the **Mozilla Responsible Computing Challenge (RCC) Global Conclave** in **Kerala, India** on behalf of the [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/) project.
 

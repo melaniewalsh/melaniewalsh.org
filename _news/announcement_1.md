@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Job news! I started a new position as a tenure-track Assistant Professor in the Information School at the University of Washington.
+Job news! I started a new position as a **tenure-track Assistant Professor** in the **Information School** at the **University of Washington**.

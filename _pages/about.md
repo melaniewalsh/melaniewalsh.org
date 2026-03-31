@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor <b>|</b> Information School <b>|</b> University of Washington <b>|</b> Seattle, USA 🌦️😎
+subtitle: Writer and Professor <b>|</b> Seattle, USA 🌦️😎
 
 profile:
   align: right
@@ -11,29 +11,28 @@ profile:
   more_info: 
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Melanie Walsh. I'm an Assistant Professor in the [**Information School**](https://ischool.uw.edu/people/faculty/profile/melwalsh) and an Adjunct Assistant Professor in the **English Department** at the University of Washington. I'm also on the Executive Council for the new [Center for Advances in Libraries, Archives, and Museums](https://calma.ischool.uw.edu/) (CALMA).
 
-Before UW, I was a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh), where I worked with [David Mimno](https://mimno.infosci.cornell.edu/). I received my PhD in English Literature from [Washington University in St. Louis](https://english.wustl.edu/), where I worked with [William J. Maxwell](https://artsci.washu.edu/faculty-staff/william-j-maxwell).
+Before UW, I was a Postdoctoral Associate in Information Science at Cornell University, where I worked with David Mimno. I received my PhD in English Literature from Washington University in St. Louis, where I worked with William J. Maxwell.
 
-My research interests include data science, digital humanities and cultural analytics, literature, libraries, and social media. I investigate how data and computational methods shape contemporary culture, and how they can be used to understand culture in turn. I often focus on the social lives of books and readers. You can download my full <a href = "assets/pdf/Walsh-CV-Current.pdf">CV<i class="fa-solid fa-file-pdf"></i></a> here.
+My research focuses on how literature and culture are produced, circulated, and transformed in the age of the internet and AI. My work has been funded by the National Endowment for the Humanities, the Mozilla Foundation, and Schmidt Sciences. You can download my full <a href = "assets/pdf/Walsh-CV-Current.pdf">CV<i class="fa-solid fa-file-pdf"></i></a> here.
 
-I am currently at work on a book project, [***When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century***](/book), which follows the social media afterlives of American authors. 
+I am currently at work on a book project, [***When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century***](/book), which follows the social media afterlives of American authors. You can read [an article from the book](assets/pdf/AQ-Tweets-of-a-Native-Son.pdf) and [explore some of the data](https://tweetsofanativeson.com/). I also wrote an open-source textbook, [***Introduction to Cultural Analytics & Python***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html).
 
-I also designed and released a free, open-source textbook, [***Introduction to Cultural Analytics & Python***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which introduces the programming language Python to people interested in the humanities and social science.
+You can check out all of my publications [here](/publications/). Some of my favorite pieces right now are ["Tweets of a Native Son"](assets/pdf/AQ-Tweets-of-a-Native-Son.pdf) (*American Quarterly*), ["Bears Will Be Boys"](https://pudding.cool/2025/07/kids-books/) (*The Pudding*), ["Where is All the Book Data?"](https://www.publicbooks.org/where-is-all-the-book-data/) (*Public Books*), ["The Goodreads 'Classics'"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) (*Journal of Cultural Analytics / Post45*), and ["Sonnet or Not, Bot?"](https://aclanthology.org/2024.findings-emnlp.914/) (*EMNLP Findings*).
 
 With wonderful collaborators, I lead several projects that I'm proud of:
-- [Post45 Data Collective](https://data.post45.org/our-data/)
-- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
-- [AI for Humanists](https://www.aiforhumanists.com/)
+- [Post45 Data Collective](https://data.post45.org/our-data/) (peer-reviewed, open-access literary and cultural data)
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/) (datasets paired with documentation, data essays, and teaching resources)
+- [AI for Humanists](https://www.aiforhumanists.com/) (resources for humanities scholars to use and critique LLMs)
+- [What's Seattle Reading?](https://melaniewalsh.github.io/whats-seattle-reading/) (exploring contemporary reading trends with Seattle Public Library data)
 
 I also made a Wordle-universe game called Versedle, where you guess who wrote lines of literature:
 - [Versedle](https://melaniewalsh.github.io/versedle/)
 
-You can find me on [Bluesky](https://bsky.app/profile/mellymeldubs.bsky.social) or send me an email at **melwalsh** at **uw** dot **edu**.
-
-In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but our interests are [converging](https://pudding.cool/2025/07/kids-books/).
+In my free time, I like to play basketball 🏀, hike ⛰️, and paddle board 🦭. I am not the children's book author [Melanie Walsh](https://www.melaniewalshbooks.com/), but our interests are [converging](https://pudding.cool/2025/07/kids-books/). You can find me on [Bluesky](https://bsky.app/profile/mellymeldubs.bsky.social) or send me an email at **melwalsh** at **uw** dot **edu**.
 

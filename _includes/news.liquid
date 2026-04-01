@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 28vw; border-top: 2px solid #222; border-bottom: 2px solid #222; padding-top: 0.5rem;"
+        style="max-height: clamp(300px, 40vw, 500px); border-top: 2px solid #222; border-bottom: 2px solid #222; padding-top: 0.5rem;"
       {% endif %}
     >
       <table class="table table-sm table-borderless">

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Writer and Professor <b>|</b> Seattle, USA 🌦️😎
 
@@ -15,11 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Melanie Walsh. I'm an Assistant Professor in the [**Information School**](https://ischool.uw.edu/people/faculty/profile/melwalsh) and an Adjunct Assistant Professor in the **English Department** at the University of Washington. I'm also on the Executive Council for the new [Center for Advances in Libraries, Archives, and Museums](https://calma.ischool.uw.edu/) (CALMA).
+Hi, I'm Melanie Walsh. I'm an Assistant Professor in the [**Information School**](https://ischool.uw.edu/people/faculty/profile/melwalsh) and an Adjunct Assistant Professor in the **English Department** at the University of Washington. I'm also on the Executive Council for the [Center for Advances in Libraries, Archives, and Museums](https://calma.ischool.uw.edu/) (CALMA), an Affiliate of the [Humanities Data Lab](https://humanitiesdatalab.ds.lib.uw.edu/), and Co-Director of the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/) (HDSSI).
 
 Before UW, I was a Postdoctoral Associate in Information Science at Cornell University, where I worked with David Mimno. I received my PhD in English Literature from Washington University in St. Louis, where I worked with William J. Maxwell.
 
-My research focuses on how literature and culture are produced, circulated, and transformed in the age of the internet and AI. My work has been funded by the National Endowment for the Humanities, the Mozilla Foundation, and Schmidt Sciences. You can download my full <a href = "assets/pdf/Walsh-CV-Current.pdf">CV<i class="fa-solid fa-file-pdf"></i></a> here.
+My research focuses on how literature and culture are produced, circulated, and transformed in the age of the internet and AI. My work has been funded by the National Endowment for the Humanities, the Mozilla Foundation, and Schmidt Sciences.
+
+Full CV: <a href = "assets/pdf/Walsh-CV-Current.pdf">Download <i class="fa-solid fa-file-pdf"></i></a>
 
 I am currently at work on a book project, [***When Postwar American Fiction Went Viral: Protest, Profit, and Popular Readers in the 21st Century***](/book), which follows the social media afterlives of American authors. You can read [an article from the book](assets/pdf/AQ-Tweets-of-a-Native-Son.pdf) and [explore some of the data](https://tweetsofanativeson.com/). I also wrote an open-source textbook, [***Introduction to Cultural Analytics & Python***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
 

@@ -41,6 +41,7 @@
       | default: entry.interactive 
        | default: entry.pub_weekly
             | default: entry.johd
+      | default: entry.larb
       | default: entry.ca %}
       
   {% if entry.preview contains '://' %}
@@ -227,6 +228,9 @@
       {%- endif %}
        {%- if entry.pub_weekly %}
       <a href="{{ entry.pub_weekly }}" class="btn btn-sm z-depth-0" role="button">Publishers Weekly <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
+       {%- if entry.larb %}
+      <a href="{{ entry.larb }}" class="btn btn-sm z-depth-0" role="button">LA Review of Books <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
       {%- if entry.link %}
       <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">Link <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>

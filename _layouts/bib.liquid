@@ -42,6 +42,7 @@
        | default: entry.pub_weekly
             | default: entry.johd
       | default: entry.larb
+      | default: entry.chicago_reader
       | default: entry.ca %}
       
   {% if entry.preview contains '://' %}
@@ -231,6 +232,9 @@
       {%- endif %}
        {%- if entry.larb %}
       <a href="{{ entry.larb }}" class="btn btn-sm z-depth-0" role="button">LA Review of Books <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+      {%- endif %}
+       {%- if entry.chicago_reader %}
+      <a href="{{ entry.chicago_reader }}" class="btn btn-sm z-depth-0" role="button">Chicago Reader <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
       {%- endif %}
       {%- if entry.link %}
       <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">Link <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I wrote about ["**'Infinite Jest,' the Internet, and the Politics of Reading**"](https://lareviewofbooks.org/article/infinite-jest-david-foster-wallace-4chan-incels-feminism/) for the **Los Angeles Review of Books**, drawn from my current book project.
+I wrote about ["'Infinite Jest,' the Internet, and the Politics of Reading"](https://lareviewofbooks.org/article/infinite-jest-david-foster-wallace-4chan-incels-feminism/) for the **Los Angeles Review of Books**, drawn from my current book project.

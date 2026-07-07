@@ -4,7 +4,7 @@ title: bio
 permalink: /bio/
 description: 
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 ## Headshot

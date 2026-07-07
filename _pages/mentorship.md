@@ -47,7 +47,11 @@ In 2026-2027, I am not recruiting PhD students. You can learn more about other f
 
 **Independent Studies**: Periodically I also supervise independent studies. However, I will not be supervising independent studies in 2026-2027.
 
-**Summer Program**: I have worked with students for the past three summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). Pending funding HDSSI will run again in summer 2026, with applications opening in late winter/early spring.
+**Summer Program**: I have worked with students for the past three summers through the [Humanities Data Science Summer Institute](https://humanitiesdatalab.ds.lib.uw.edu/opportunities/) at the University of Washington (available only to UW students). Pending funding HDSSI will run again in summer 2027, with applications opening in late winter/early spring.
+
+**HDSSI 2026**  
+Grad students: Neel Gupta (iSchool)  
+Undergraduate students: Bob Bao, Karalee Harris, Alexis Martin, Evan Tiago Burnett Ramos
 
 **HDSSI 2025**  
 Grad students: Neel Gupta (iSchool)  

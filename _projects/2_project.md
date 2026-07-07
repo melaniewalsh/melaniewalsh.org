@@ -3,7 +3,7 @@ layout: page
 title: AI for Humanists
 description: The AI for Humanists project is developing resources to inform, empower, and inspire humanities scholars to use LLMs in their disciplines in creative new ways.
 img: assets/img/ai4h.png
-importance: 2
+importance: 4
 category: work
 redirect: https://aiforhumanists.com/
 ---

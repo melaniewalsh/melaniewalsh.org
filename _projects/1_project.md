@@ -3,7 +3,7 @@ layout: page
 title: Responsible Datasets in Context
 description: The Responsible Datasets in Context project hosts datasets that are paired with rich documentation, data essays, and teaching resources, all of which draw on context and humanities perspectives and methods.
 img: assets/img/responsible.png
-importance: 1
+importance: 4
 category: work
 related_publications: true
 redirect: https://www.responsible-datasets-in-context.com/

@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /mentorship
-title: mentorship
+permalink: /lab/
+redirect_from:
+  - /mentorship
+title: lab
 description: 
 nav: true
 nav_order: 7

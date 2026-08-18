@@ -1,0 +1,50 @@
+---
+---
+{% comment %}
+  Template for press/media entries rendered by jekyll-scholar on /press/.
+  Usage: {% bibliography --file press --template press_bib %}
+  Fields: abbr (outlet badge), title (headline), journal (outlet), year, month,
+          url (headline link), video, pdf, note (short qualifier).
+{% endcomment %}
+<div class="row">
+  <div class="col col-sm-3 abbr">
+    {%- if entry.abbr -%}
+      <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+    {%- endif -%}
+  </div>
+
+  <div id="{{ entry.key }}" class="col-sm-9">
+    <div class="title">
+      {%- if entry.url -%}
+        <a href="{{ entry.url }}">{{ entry.title }}</a>
+      {%- else -%}
+        {{ entry.title }}
+      {%- endif -%}
+    </div>
+
+    <div class="periodical">
+      <em>{{ entry.journal }}</em>
+      {%- if entry.month %}, {{ entry.month | capitalize }}{% endif %}
+      {{- " " }}{{ entry.year }}
+    </div>
+
+    {%- if entry.note %}
+      <div class="periodical">{{ entry.note }}</div>
+    {%- endif %}
+
+    {%- if entry.video or entry.pdf %}
+      <div class="links">
+        {%- if entry.video %}
+          <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+        {%- endif %}
+        {%- if entry.pdf %}
+          {%- if entry.pdf contains '://' %}
+            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+          {%- else %}
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup></a>
+          {%- endif %}
+        {%- endif %}
+      </div>
+    {%- endif %}
+  </div>
+</div>

@@ -1595,3 +1595,42 @@ html[data-theme="dark"] {
     border-color: #fdba74;
   }
 }
+
+// Projects page: colour each category heading to match its tile borders
+.projects {
+  .category-link-work,
+  .category-link-work h2.category {
+    color: #8b32bf;
+    border-bottom-color: rgba(139, 50, 191, 0.35);
+  }
+
+  .category-link-fun,
+  .category-link-fun h2.category {
+    color: #ea580c;
+    border-bottom-color: rgba(234, 88, 12, 0.35);
+  }
+}
+
+// Contact icons under the profile photo wrap rather than overflow
+.profile .contact-icons.profile-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 0.2rem;
+}
+
+html[data-theme="dark"] {
+  .projects {
+    .category-link-work,
+    .category-link-work h2.category {
+      color: #c49dd4;
+      border-bottom-color: rgba(196, 157, 212, 0.35);
+    }
+
+    .category-link-fun,
+    .category-link-fun h2.category {
+      color: #fdba74;
+      border-bottom-color: rgba(253, 186, 116, 0.35);
+    }
+  }
+}

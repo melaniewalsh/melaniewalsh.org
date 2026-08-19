@@ -1497,11 +1497,11 @@ html[data-theme="dark"] {
 }
 
 // Projects page: square tiles — image, thick category-coloured border, title bar, hover description
-.project-grid {
-  .project-tile-link,
-  .project-tile-link:hover {
-    text-decoration: none;
-  }
+// NB: keep comma-separated selectors flat (not nested) — the compressed-CSS step
+// drops the ancestor prefix from the first selector of a nested comma list.
+.project-grid .project-tile-link,
+.project-grid .project-tile-link:hover {
+  text-decoration: none;
 }
 
 .project-tile {
@@ -1599,18 +1599,16 @@ html[data-theme="dark"] {
 // Projects page: colour each category heading to match its tile borders
 // NB: an existing `.projects h2 { color: ... !important }` rule forces every
 // heading purple, so these need !important to win.
-.projects {
-  .category-link-work,
-  .category-link-work h2.category {
-    color: #8b32bf !important;
-    border-bottom-color: rgba(139, 50, 191, 0.35);
-  }
+.projects .category-link-work,
+.projects .category-link-work h2.category {
+  color: #8b32bf !important;
+  border-bottom-color: rgba(139, 50, 191, 0.35);
+}
 
-  .category-link-fun,
-  .category-link-fun h2.category {
-    color: #ea580c !important;
-    border-bottom-color: rgba(234, 88, 12, 0.35);
-  }
+.projects .category-link-fun,
+.projects .category-link-fun h2.category {
+  color: #ea580c !important;
+  border-bottom-color: rgba(234, 88, 12, 0.35);
 }
 
 // Contact icons under the profile photo wrap rather than overflow
@@ -1621,18 +1619,51 @@ html[data-theme="dark"] {
   row-gap: 0.2rem;
 }
 
-html[data-theme="dark"] {
-  .projects {
-    .category-link-work,
-    .category-link-work h2.category {
-      color: #c49dd4 !important;
-      border-bottom-color: rgba(196, 157, 212, 0.35);
-    }
+html[data-theme="dark"] .projects .category-link-work,
+html[data-theme="dark"] .projects .category-link-work h2.category {
+  color: #c49dd4 !important;
+  border-bottom-color: rgba(196, 157, 212, 0.35);
+}
 
-    .category-link-fun,
-    .category-link-fun h2.category {
-      color: #fdba74 !important;
-      border-bottom-color: rgba(253, 186, 116, 0.35);
-    }
-  }
+html[data-theme="dark"] .projects .category-link-fun,
+html[data-theme="dark"] .projects .category-link-fun h2.category {
+  color: #fdba74 !important;
+  border-bottom-color: rgba(253, 186, 116, 0.35);
+}
+
+// Project tile hover: flood the tile with the category colour, description in white
+.project-tile-work:hover .project-tile-desc,
+.project-tile-work .project-tile-link:focus .project-tile-desc {
+  background-color: #8b32bf;
+  color: #fff;
+}
+
+.project-tile-fun:hover .project-tile-desc,
+.project-tile-fun .project-tile-link:focus .project-tile-desc {
+  background-color: #ea580c;
+  color: #fff;
+}
+
+.project-tile:hover .project-tile-desc {
+  opacity: 1;
+}
+
+// Contact icons under the profile photo read as plain black (purple only on hover)
+.profile .contact-icons.profile-icons a,
+.profile .contact-icons.profile-icons a i,
+.profile .contact-icons.profile-icons a i::before {
+  color: #000 !important;
+}
+
+.profile .contact-icons.profile-icons a:hover i,
+.profile .contact-icons.profile-icons a:hover i::before {
+  color: var(--global-theme-color) !important;
+}
+
+// Only target the icon itself here: when the first selector in this list is the
+// bare `... a`, the compressed-CSS step strips its `html[data-theme=dark]` prefix
+// and the rule leaks into light mode.
+html[data-theme="dark"] .profile .contact-icons.profile-icons a i,
+html[data-theme="dark"] .profile .contact-icons.profile-icons a i::before {
+  color: #fff !important;
 }

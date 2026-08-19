@@ -56,6 +56,6 @@ With collaborators, she leads several projects: the [Post45 Data Collective](htt
     {% include figure.liquid loading="lazy" path="assets/img/speaking-berkeley-2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="<a href='https://bids.berkeley.edu/news/melanie-walsh-presents-%E2%80%9Cai-fiction-wild%E2%80%9D'>\"AI Fiction in the Wild\"</a> at UC Berkeley, 2025" %}
   </div>
   <div class="col-sm-6 mb-3">
-    {% include figure.liquid loading="lazy" path="assets/img/speaking-facct-2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Presenting <a href='https://arxiv.org/abs/2505.14890'>\"Algorithms in the Stacks\"</a> at FAccT, Athens, 2025" %}
+    {% include figure.liquid loading="lazy" path="assets/img/speaking-hdssi-2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Speaking at the <a href='https://humanitiesdatalab.ds.lib.uw.edu/hdssi/'>Humanities Data Science Summer Institute</a> (HDSSI), 2026" %}
   </div>
 </div>

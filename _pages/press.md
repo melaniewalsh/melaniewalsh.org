@@ -4,7 +4,7 @@ permalink: /press/
 title: press
 description: media coverage of my research and writing.
 nav: true
-nav_order: 2
+nav_order: 9
 ---
 
 <!-- _pages/press.md -->

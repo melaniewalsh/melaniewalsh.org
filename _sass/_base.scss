@@ -1597,16 +1597,18 @@ html[data-theme="dark"] {
 }
 
 // Projects page: colour each category heading to match its tile borders
+// NB: an existing `.projects h2 { color: ... !important }` rule forces every
+// heading purple, so these need !important to win.
 .projects {
   .category-link-work,
   .category-link-work h2.category {
-    color: #8b32bf;
+    color: #8b32bf !important;
     border-bottom-color: rgba(139, 50, 191, 0.35);
   }
 
   .category-link-fun,
   .category-link-fun h2.category {
-    color: #ea580c;
+    color: #ea580c !important;
     border-bottom-color: rgba(234, 88, 12, 0.35);
   }
 }
@@ -1623,13 +1625,13 @@ html[data-theme="dark"] {
   .projects {
     .category-link-work,
     .category-link-work h2.category {
-      color: #c49dd4;
+      color: #c49dd4 !important;
       border-bottom-color: rgba(196, 157, 212, 0.35);
     }
 
     .category-link-fun,
     .category-link-fun h2.category {
-      color: #fdba74;
+      color: #fdba74 !important;
       border-bottom-color: rgba(253, 186, 116, 0.35);
     }
   }

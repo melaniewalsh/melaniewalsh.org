@@ -47,7 +47,7 @@ With collaborators, she leads several projects: the [Post45 Data Collective](htt
 
 <div class="row">
   <div class="col-sm-6 mb-3">
-    {% include figure.liquid loading="lazy" path="assets/img/speaking-hkadh-2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Keynote at the Hong Kong Association for Digital Humanities (HKADH), 2025" %}
+    {% include figure.liquid loading="lazy" path="assets/img/seattle-times-ai-kids-books.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Photographed for <a href='https://www.seattletimes.com/seattle-news/uw-researchers-say-ai-is-coming-for-kids-books-but-its-biased/'>The Seattle Times</a>, 2026 (Ivy Ceballo / The Seattle Times)" %}
   </div>
   <div class="col-sm-6 mb-3">
     {% include figure.liquid loading="lazy" path="assets/img/Alliance-Francaise.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Keynote at <a href='https://www.afseattle.org/event-rsvp/the-night-of-ideas-seattle-2024/'>The Night of Ideas</a>, Alliance Fran&ccedil;aise de Seattle, 2024" %}

@@ -1396,3 +1396,12 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Smaller contact icon rows (about page: primary set below the bio, secondary set at the bottom)
+.contact-icons.contact-icons-inline {
+  font-size: 2rem;
+
+  a {
+    margin: 0 0.35rem;
+  }
+}

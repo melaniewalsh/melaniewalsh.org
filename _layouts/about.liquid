@@ -58,6 +58,13 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Primary contact icons, directly below the bio -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons contact-icons-inline">{% include social_primary.liquid %}</div>
+      </div>
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -85,9 +92,7 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-icons contact-icons-inline">{% include social_secondary.liquid %}</div>
       </div>
     {% endif %}
 

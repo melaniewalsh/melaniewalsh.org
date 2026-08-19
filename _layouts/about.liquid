@@ -53,17 +53,13 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% if page.social %}
+          <div class="contact-icons contact-icons-inline profile-icons">{% include social_primary.liquid %}</div>
+        {% endif %}
       </div>
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-
-    <!-- Primary contact icons, directly below the bio -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons contact-icons-inline">{% include social_primary.liquid %}</div>
-      </div>
-    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}

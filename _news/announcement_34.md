@@ -4,6 +4,7 @@ title: Seattle Times and KIRO Newsradio
 date: 2026-08-17 09:00:00-0400
 inline: true
 related_posts: false
+badge: press
 ---
 
 I was interviewed by *The Seattle Times* about ["Neutrality Bites"](https://dl.acm.org/doi/10.1145/3805689.3812287) for ["UW researchers say AI is coming for kids' books, but it's biased"](https://www.seattletimes.com/seattle-news/uw-researchers-say-ai-is-coming-for-kids-books-but-its-biased/), which also quotes [Imani Finkley](https://imanif.github.io/) and Michelle Martin, and by **KIRO Newsradio** for "AI carries old gender bias into children's stories".

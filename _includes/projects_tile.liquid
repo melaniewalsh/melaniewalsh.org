@@ -1,0 +1,20 @@
+{%- comment -%}
+  Square heat-map style project tile: title always visible, description on hover/focus.
+  Tint hue comes from project.category, tint strength from project.importance (1 = strongest).
+{%- endcomment -%}
+{% assign tile_category = project.category | default: 'work' %}
+{% assign tile_weight = project.importance | default: 3 %}
+<div class="col">
+  <a
+    class="project-tile-link"
+    href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}"
+    title="{{ project.title | strip_html }}"
+  >
+    <div class="project-tile project-tile-{{ tile_category }} project-tile-w{{ tile_weight }}">
+      <span class="project-tile-title">{{ project.title }}</span>
+      {% if project.description %}
+        <span class="project-tile-desc"><span>{{ project.description | strip_html }}</span></span>
+      {% endif %}
+    </div>
+  </a>
+</div>

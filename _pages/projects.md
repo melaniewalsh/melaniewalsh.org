@@ -33,7 +33,7 @@ horizontal: false
   {% else %}
   <div class="row row-cols-2 row-cols-md-4 g-3 project-grid">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include projects_tile.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -59,7 +59,7 @@ horizontal: false
   {% else %}
   <div class="row row-cols-2 row-cols-md-4 g-3 project-grid">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include projects_tile.liquid %}
     {% endfor %}
   </div>
   {% endif %}

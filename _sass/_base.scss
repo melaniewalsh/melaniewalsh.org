@@ -1631,16 +1631,43 @@ html[data-theme="dark"] .projects .category-link-fun h2.category {
   border-bottom-color: rgba(253, 186, 116, 0.35);
 }
 
-// Project tile hover: flood the tile with the category colour, description in white
-.project-tile-work:hover .project-tile-desc,
+// Project tile hover: flood the tile with the category colour, description in white.
+// The inner <span> needs its own rule: a global `p, h1..h6, em, div, li, span, strong`
+// rule sets colour on it directly, so colouring only the parent leaves the text dark.
+// Kept as separate blocks rather than one comma list — see the compressed-CSS note above.
+.project-tile-work:hover .project-tile-desc {
+  background-color: #8b32bf;
+  color: #fff;
+}
+
+.project-tile-work:hover .project-tile-desc span {
+  color: #fff;
+}
+
 .project-tile-work .project-tile-link:focus .project-tile-desc {
   background-color: #8b32bf;
   color: #fff;
 }
 
-.project-tile-fun:hover .project-tile-desc,
+.project-tile-work .project-tile-link:focus .project-tile-desc span {
+  color: #fff;
+}
+
+.project-tile-fun:hover .project-tile-desc {
+  background-color: #ea580c;
+  color: #fff;
+}
+
+.project-tile-fun:hover .project-tile-desc span {
+  color: #fff;
+}
+
 .project-tile-fun .project-tile-link:focus .project-tile-desc {
   background-color: #ea580c;
+  color: #fff;
+}
+
+.project-tile-fun .project-tile-link:focus .project-tile-desc span {
   color: #fff;
 }
 

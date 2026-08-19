@@ -1496,7 +1496,7 @@ html[data-theme="dark"] {
   }
 }
 
-// Projects page: square heat-map tiles, title visible, description on hover/focus
+// Projects page: square tiles — image, thick category-coloured border, title bar, hover description
 .project-grid {
   .project-tile-link,
   .project-tile-link:hover {
@@ -1507,29 +1507,48 @@ html[data-theme="dark"] {
 .project-tile {
   position: relative;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
   aspect-ratio: 1 / 1;
-  padding: 0.85rem;
-  border-radius: 6px;
-  border: 1px solid transparent;
+  border: 5px solid transparent;
+  border-radius: 8px;
   overflow: hidden;
+  background-color: #fff;
   transition:
     transform 0.15s ease,
     box-shadow 0.15s ease;
 
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.16);
+  }
+}
+
+.project-tile-media {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  background-color: #fff;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
   }
 }
 
 .project-tile-title {
+  flex: 0 0 auto;
+  padding: 0.4rem 0.45rem;
   text-align: center;
-  font-size: 0.95rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.2;
   color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .project-tile-desc {
@@ -1555,45 +1574,24 @@ html[data-theme="dark"] {
   opacity: 0.98;
 }
 
-// Hue by category, strength by importance (1 = most important = deepest)
 .project-tile-work {
-  border-color: rgba(139, 50, 191, 0.35);
-
-  &.project-tile-w1 { background-color: rgba(139, 50, 191, 0.34); }
-  &.project-tile-w2 { background-color: rgba(139, 50, 191, 0.27); }
-  &.project-tile-w3 { background-color: rgba(139, 50, 191, 0.2); }
-  &.project-tile-w4 { background-color: rgba(139, 50, 191, 0.13); }
-  &.project-tile-w5 { background-color: rgba(139, 50, 191, 0.08); }
+  border-color: #8b32bf;
 }
 
 .project-tile-fun {
-  border-color: rgba(234, 88, 12, 0.35);
-
-  &.project-tile-w1 { background-color: rgba(234, 88, 12, 0.34); }
-  &.project-tile-w2 { background-color: rgba(234, 88, 12, 0.27); }
-  &.project-tile-w3 { background-color: rgba(234, 88, 12, 0.2); }
-  &.project-tile-w4 { background-color: rgba(234, 88, 12, 0.13); }
-  &.project-tile-w5 { background-color: rgba(234, 88, 12, 0.08); }
+  border-color: #ea580c;
 }
 
 html[data-theme="dark"] {
-  .project-tile-work {
-    border-color: rgba(196, 157, 212, 0.35);
+  .project-tile-title {
+    border-top-color: rgba(255, 255, 255, 0.12);
+  }
 
-    &.project-tile-w1 { background-color: rgba(196, 157, 212, 0.3); }
-    &.project-tile-w2 { background-color: rgba(196, 157, 212, 0.24); }
-    &.project-tile-w3 { background-color: rgba(196, 157, 212, 0.18); }
-    &.project-tile-w4 { background-color: rgba(196, 157, 212, 0.12); }
-    &.project-tile-w5 { background-color: rgba(196, 157, 212, 0.08); }
+  .project-tile-work {
+    border-color: #c49dd4;
   }
 
   .project-tile-fun {
-    border-color: rgba(253, 186, 116, 0.35);
-
-    &.project-tile-w1 { background-color: rgba(253, 186, 116, 0.28); }
-    &.project-tile-w2 { background-color: rgba(253, 186, 116, 0.22); }
-    &.project-tile-w3 { background-color: rgba(253, 186, 116, 0.17); }
-    &.project-tile-w4 { background-color: rgba(253, 186, 116, 0.11); }
-    &.project-tile-w5 { background-color: rgba(253, 186, 116, 0.07); }
+    border-color: #fdba74;
   }
 }

@@ -29,7 +29,7 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-# Mentorship
+# Lab
 
 Working with students is one of the best parts of my job! I am lucky to collaborate with PhD students, and occasionally with Master's students and undergraduate students.
 

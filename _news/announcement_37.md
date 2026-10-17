@@ -7,4 +7,4 @@ related_posts: false
 badge: grant
 ---
 
-Grant news! We received a **Schmidt Sciences HAVI award** for our project analyzing government documents. Really excited to work together with Ben Lee, Kyle Deeds, and Trevor Owens. Read [the announcement](https://www.schmidtsciences.org/havi-2026-announcement/).
+We received a **Schmidt Sciences HAVI award** for our project analyzing government documents. Really excited to work together with Ben Lee, Kyle Deeds, and Trevor Owens. You can read the announcement [here](https://www.schmidtsciences.org/havi-2026-announcement/).

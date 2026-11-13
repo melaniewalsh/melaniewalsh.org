@@ -64,6 +64,11 @@ on:
 permissions:
   contents: write
 
+# Parallel pushes each force-push to gh-pages, so the slowest build wins
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
